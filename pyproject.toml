@@ -1,0 +1,37 @@
+[project]
+name = "aosp_dataset"
+authors = [
+    {name = "A. Challande", email = "achallande@quarkslab.com"},
+]
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Topic :: Security",
+    "Intended Audience :: Information Technology",
+    "Operating System :: OS Independent",
+    "License :: OSI Approved :: Apache Software License",
+    "Private :: Do Not Upload",
+]
+dynamic = ["version", "description"]
+dependencies = [
+    "pydantic",
+]
+license = "LICENSE"
+
+[project.optional-dependencies]
+dev = [
+    "black",
+]
+
+[project.url]
+Home = "https://github.com/quarkslab/aosp_dataset"
+
+[project.scripts]
+generate-schema = "aosp_dataset:generate_schema"
+
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.black]
+extend-exclude = "(_pb2.pyi?$|_pb2_grpc.pyi?$)"

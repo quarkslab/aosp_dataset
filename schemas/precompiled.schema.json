@@ -1,0 +1,52 @@
+{
+  "title": "PrecompiledDataset",
+  "description": "Precompiled dataset",
+  "type": "object",
+  "properties": {
+    "compiledCves": {
+      "title": "Compiled CVEs",
+      "description": "List of precompiled CVEs links",
+      "minItems": 1,
+      "uniqueItems": true,
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/CveLink"
+      }
+    }
+  },
+  "required": [
+    "compiledCves"
+  ],
+  "definitions": {
+    "CveLink": {
+      "title": "CveLink",
+      "description": "A link towards a CVE",
+      "type": "object",
+      "properties": {
+        "cveId": {
+          "title": "CVE ID",
+          "description": "CVE Identifier",
+          "type": "string"
+        },
+        "commitId": {
+          "title": "Commit Id",
+          "description": "Hash of the commit",
+          "type": "string"
+        },
+        "link": {
+          "title": "Download link",
+          "description": "Direct link to download the CVE",
+          "minLength": 1,
+          "maxLength": 65536,
+          "format": "uri",
+          "type": "string"
+        }
+      },
+      "required": [
+        "cveId",
+        "commitId",
+        "link"
+      ]
+    }
+  }
+}

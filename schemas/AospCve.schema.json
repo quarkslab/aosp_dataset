@@ -1,0 +1,75 @@
+{
+  "title": "AospCve",
+  "description": "Description of a CVE",
+  "type": "object",
+  "properties": {
+    "cveId": {
+      "title": "CVE ID",
+      "description": "CVE Identifier",
+      "type": "string"
+    },
+    "dateReported": {
+      "title": "Reported date",
+      "description": "CVE reported date",
+      "type": "string",
+      "format": "date"
+    },
+    "vulnerabilityType": {
+      "title": "Type",
+      "description": "Class of vulnerability",
+      "type": "string"
+    },
+    "language": {
+      "title": "Language",
+      "description": "Language of source files affected by the CVE",
+      "type": "string"
+    },
+    "fixes": {
+      "title": "Fixes informations",
+      "description": "Fixing commits",
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/CommitInformation"
+      }
+    },
+    "severity": {
+      "title": "Severity",
+      "description": "CVE Impact",
+      "type": "string"
+    },
+    "component": {
+      "title": "Component",
+      "description": "Affected component in AOSP",
+      "type": "string"
+    }
+  },
+  "required": [
+    "cveId",
+    "fixes",
+    "component"
+  ],
+  "definitions": {
+    "CommitInformation": {
+      "title": "CommitInformation",
+      "description": "Description of a commit",
+      "type": "object",
+      "properties": {
+        "commitId": {
+          "title": "Commit ID",
+          "description": "Hash of the commit",
+          "type": "string"
+        },
+        "patchUrl": {
+          "title": "Patch URL",
+          "description": "Direct link to the patch",
+          "type": "string"
+        }
+      },
+      "required": [
+        "commitId",
+        "patchUrl"
+      ]
+    }
+  }
+}

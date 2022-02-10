@@ -1,0 +1,3629 @@
+{
+  "compiledCves": [
+    {
+      "cveId": "CVE-2019-2115",
+      "commitId": "6a9c4e7968e73393110b169b33fb636531fe7fc2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r1/CVE-2019-2115/6a9c4e7968e73393110b169b33fb636531fe7fc2.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2115",
+      "commitId": "9d4b63592231755c52124b2ea7d57ee2b2c35ef6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r1/CVE-2019-2115/9d4b63592231755c52124b2ea7d57ee2b2c35ef6.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2123",
+      "commitId": "6af27a83256e676da6f9c02921ef9dfeffc8c52d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r1/CVE-2019-2123/6af27a83256e676da6f9c02921ef9dfeffc8c52d.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2174",
+      "commitId": "8bbd6f4f0d222b64496f7bda25d123c70dbf3e6c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r1/CVE-2019-2174/8bbd6f4f0d222b64496f7bda25d123c70dbf3e6c.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2176",
+      "commitId": "61646846b3c26789d0cc5d2a18b58ed8e94cd58a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r1/CVE-2019-2176/61646846b3c26789d0cc5d2a18b58ed8e94cd58a.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2178",
+      "commitId": "ea8d43c47462fda80359abf84c04a6cf7ce90f64",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r1/CVE-2019-2178/ea8d43c47462fda80359abf84c04a6cf7ce90f64.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2179",
+      "commitId": "91c68129df64a627ed3b5b946e19949f17b1f8f7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r1/CVE-2019-2179/91c68129df64a627ed3b5b946e19949f17b1f8f7.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2036",
+      "commitId": "4a7dcb65883d32019e879fac62c7847fcc48eec9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r10/CVE-2019-2036/4a7dcb65883d32019e879fac62c7847fcc48eec9.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2195",
+      "commitId": "0ac06cc4c607ffc5ee85077ffd059633f3b8c050",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r10/CVE-2019-2195/0ac06cc4c607ffc5ee85077ffd059633f3b8c050.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2202",
+      "commitId": "e732ffadfe369811e85e6362fd7ffa6a9d789f73",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r10/CVE-2019-2202/e732ffadfe369811e85e6362fd7ffa6a9d789f73.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2205",
+      "commitId": "af8de44fa4f7c228d812e8db86d4d16585ed1050",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r10/CVE-2019-2205/af8de44fa4f7c228d812e8db86d4d16585ed1050.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2206",
+      "commitId": "2d210988322c344b2c95337472bda94e13923f99",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r10/CVE-2019-2206/2d210988322c344b2c95337472bda94e13923f99.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2207",
+      "commitId": "6b2d0bb5460d92abcd5b5b95b269ba2348039cd1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r10/CVE-2019-2207/6b2d0bb5460d92abcd5b5b95b269ba2348039cd1.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2220",
+      "commitId": "b0de569edd2d27b8dae9e3048f9c131b6ebc2d45",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r15/CVE-2019-2220/b0de569edd2d27b8dae9e3048f9c131b6ebc2d45.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2223",
+      "commitId": "42f70ae4ef53a5fb663e43725000bacb5dc41d9c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r15/CVE-2019-2223/42f70ae4ef53a5fb663e43725000bacb5dc41d9c.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2225",
+      "commitId": "a73dfccf325aa6e2bca86dffa9f203196d3fa4cc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r15/CVE-2019-2225/a73dfccf325aa6e2bca86dffa9f203196d3fa4cc.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2226",
+      "commitId": "faf5aa225c2c91f3530294fe3040928bba3d163a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r15/CVE-2019-2226/faf5aa225c2c91f3530294fe3040928bba3d163a.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2227",
+      "commitId": "be5e3a612d05283166bbd6eb763ffb148b5acf68",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r15/CVE-2019-2227/be5e3a612d05283166bbd6eb763ffb148b5acf68.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2230",
+      "commitId": "017838585617f0e492ede866750fcfb8ed77830b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r15/CVE-2019-2230/017838585617f0e492ede866750fcfb8ed77830b.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2231",
+      "commitId": "c9349a5bf0d87a4b61f088a76d058b5dae0357dc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r15/CVE-2019-2231/c9349a5bf0d87a4b61f088a76d058b5dae0357dc.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0006",
+      "commitId": "2e1feaad404748c5d9d02d92bb2973d8aa9dfb96",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r23/CVE-2020-0006/2e1feaad404748c5d9d02d92bb2973d8aa9dfb96.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0007",
+      "commitId": "6c524a53c85bd0ee05d2714bc5606d62975e5819",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r23/CVE-2020-0007/6c524a53c85bd0ee05d2714bc5606d62975e5819.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0007",
+      "commitId": "73a1bebeaa1bd9ce00b6178c76e420e827da79df",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r23/CVE-2020-0007/73a1bebeaa1bd9ce00b6178c76e420e827da79df.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0008",
+      "commitId": "55f4d920dfe100369d1ccac70ef1bb530d5d73fc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r23/CVE-2020-0008/55f4d920dfe100369d1ccac70ef1bb530d5d73fc.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0018",
+      "commitId": "7fb8682cbf494e3f1d5c79ebfbd9b020e1191679",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r26/CVE-2020-0018/7fb8682cbf494e3f1d5c79ebfbd9b020e1191679.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0026",
+      "commitId": "daf29a6dbfafc6c06654a3878c0ad2a7f8ebc063",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r26/CVE-2020-0026/daf29a6dbfafc6c06654a3878c0ad2a7f8ebc063.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0027",
+      "commitId": "2526448930008792615f8b8a718ad09f19390025",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r26/CVE-2020-0027/2526448930008792615f8b8a718ad09f19390025.tgz"
+    },
+    {
+      "cveId": "CVE-2019-5018",
+      "commitId": "678cc662682a24c7c8505794fe5cc26407b646b9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2019-5018/678cc662682a24c7c8505794fe5cc26407b646b9.tgz"
+    },
+    {
+      "cveId": "CVE-2019-8457",
+      "commitId": "678cc662682a24c7c8505794fe5cc26407b646b9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2019-8457/678cc662682a24c7c8505794fe5cc26407b646b9.tgz"
+    },
+    {
+      "cveId": "CVE-2019-9936",
+      "commitId": "678cc662682a24c7c8505794fe5cc26407b646b9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2019-9936/678cc662682a24c7c8505794fe5cc26407b646b9.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0032",
+      "commitId": "ffcf2a87d66f935210ebd011eed474514d086b40",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2020-0032/ffcf2a87d66f935210ebd011eed474514d086b40.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0033",
+      "commitId": "d79abbb0d359dd037e6d0b4cc022fd26cea3ebaa",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2020-0033/d79abbb0d359dd037e6d0b4cc022fd26cea3ebaa.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0037",
+      "commitId": "712dcda25084434ffd3e1e0df6c0f7e65441b7f1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2020-0037/712dcda25084434ffd3e1e0df6c0f7e65441b7f1.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0038",
+      "commitId": "712dcda25084434ffd3e1e0df6c0f7e65441b7f1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2020-0038/712dcda25084434ffd3e1e0df6c0f7e65441b7f1.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0039",
+      "commitId": "712dcda25084434ffd3e1e0df6c0f7e65441b7f1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r30/CVE-2020-0039/712dcda25084434ffd3e1e0df6c0f7e65441b7f1.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0070",
+      "commitId": "0aec6aed3031f60da3c4756d70611850011807b7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r33/CVE-2020-0070/0aec6aed3031f60da3c4756d70611850011807b7.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0071",
+      "commitId": "0aec6aed3031f60da3c4756d70611850011807b7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r33/CVE-2020-0071/0aec6aed3031f60da3c4756d70611850011807b7.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0072",
+      "commitId": "0aec6aed3031f60da3c4756d70611850011807b7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r33/CVE-2020-0072/0aec6aed3031f60da3c4756d70611850011807b7.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0072",
+      "commitId": "c67bf186efc538995740dcf667eaa39ab801157f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r33/CVE-2020-0072/c67bf186efc538995740dcf667eaa39ab801157f.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0073",
+      "commitId": "c67bf186efc538995740dcf667eaa39ab801157f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r33/CVE-2020-0073/c67bf186efc538995740dcf667eaa39ab801157f.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0093",
+      "commitId": "0335ffc17f9b9a4831c242bb08ea92f605fde7a6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r34/CVE-2020-0093/0335ffc17f9b9a4831c242bb08ea92f605fde7a6.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0102",
+      "commitId": "6b7373a32e0a0628b497c1fbec5141ca47ef61b5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r34/CVE-2020-0102/6b7373a32e0a0628b497c1fbec5141ca47ef61b5.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0103",
+      "commitId": "89321d6f0d47724dc7f0c17f7d7302d1fe75086b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r34/CVE-2020-0103/89321d6f0d47724dc7f0c17f7d7302d1fe75086b.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0105",
+      "commitId": "1642dc003964aed54724d17d840f883f0537cebd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r34/CVE-2020-0105/1642dc003964aed54724d17d840f883f0537cebd.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0118",
+      "commitId": "4271f564399e35186473ccd2d70b45bb5038c97a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r37/CVE-2020-0118/4271f564399e35186473ccd2d70b45bb5038c97a.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0213",
+      "commitId": "75db1b8e484ffd9256c553cb28dcd0b5d7a3c274",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r37/CVE-2020-0213/75db1b8e484ffd9256c553cb28dcd0b5d7a3c274.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0224",
+      "commitId": "0815eb32f379006135b36c574d7a283dfb3620f6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r40/CVE-2020-0224/0815eb32f379006135b36c574d7a283dfb3620f6.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0224",
+      "commitId": "59645d5417eaf1f79edfc2b800c94638965f4e38",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r40/CVE-2020-0224/59645d5417eaf1f79edfc2b800c94638965f4e38.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0226",
+      "commitId": "202515fbdb1281947323f45d3f1eb1ff3f501dda",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r40/CVE-2020-0226/202515fbdb1281947323f45d3f1eb1ff3f501dda.tgz"
+    },
+    {
+      "cveId": "CVE-2020-9589",
+      "commitId": "2e8f1f0dc5ca3db8a7035938752dd230608e17ab",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r40/CVE-2020-9589/2e8f1f0dc5ca3db8a7035938752dd230608e17ab.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0240",
+      "commitId": "cb30bc6720cb3864d1a9f9c55b7d53ab2d9a5f7a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r41/CVE-2020-0240/cb30bc6720cb3864d1a9f9c55b7d53ab2d9a5f7a.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0256",
+      "commitId": "7ffd0a26064cf25c0922f2bab511e4b4e8149083",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r41/CVE-2020-0256/7ffd0a26064cf25c0922f2bab511e4b4e8149083.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0257",
+      "commitId": "b26c7160cd1dfba9224ba12dc075ac3c658b18c3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r41/CVE-2020-0257/b26c7160cd1dfba9224ba12dc075ac3c658b18c3.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2185",
+      "commitId": "5af096cb013b392ee594dc61140a61513fca97da",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r5/CVE-2019-2185/5af096cb013b392ee594dc61140a61513fca97da.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2186",
+      "commitId": "5af096cb013b392ee594dc61140a61513fca97da",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r5/CVE-2019-2186/5af096cb013b392ee594dc61140a61513fca97da.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2187",
+      "commitId": "4ce9d55d26d239571909ed8981519734bcb355be",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-10.0.0_r5/CVE-2019-2187/4ce9d55d26d239571909ed8981519734bcb355be.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0380",
+      "commitId": "59c234a8fddda37147bb3fe1dd3b3a668828bcab",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0380/59c234a8fddda37147bb3fe1dd3b3a668828bcab.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0381",
+      "commitId": "e689e94f3b7473497052e81d906a10a82407e559",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0381/e689e94f3b7473497052e81d906a10a82407e559.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0383",
+      "commitId": "e689e94f3b7473497052e81d906a10a82407e559",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0383/e689e94f3b7473497052e81d906a10a82407e559.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0384",
+      "commitId": "e689e94f3b7473497052e81d906a10a82407e559",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0384/e689e94f3b7473497052e81d906a10a82407e559.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0385",
+      "commitId": "e689e94f3b7473497052e81d906a10a82407e559",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0385/e689e94f3b7473497052e81d906a10a82407e559.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0408",
+      "commitId": "4048e49956a2dfd49af3adf0f78881bf15f3550f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0408/4048e49956a2dfd49af3adf0f78881bf15f3550f.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0409",
+      "commitId": "bff51b88aaf96279c58edb812be0bda2fcaf4967",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0409/bff51b88aaf96279c58edb812be0bda2fcaf4967.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0458",
+      "commitId": "1f73a728ef4b6d7d350c0715bdb10d59e5b5f9be",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r1/CVE-2020-0458/1f73a728ef4b6d7d350c0715bdb10d59e5b5f9be.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0463",
+      "commitId": "938a5cd87c38bf35d15ffa3414c3a74faecb8bf8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r18/CVE-2020-0463/938a5cd87c38bf35d15ffa3414c3a74faecb8bf8.tgz"
+    },
+    {
+      "cveId": "CVE-2020-15802",
+      "commitId": "775a5e72b34b70ff92d61d8bcc47c6bde663f02e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r18/CVE-2020-15802/775a5e72b34b70ff92d61d8bcc47c6bde663f02e.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6328",
+      "commitId": "8b37da24f362ac660917ae5415e1e4063724093c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2016-6328/8b37da24f362ac660917ae5415e1e4063724093c.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0471",
+      "commitId": "ca6b0a211eb39ba85eed60ea740c85d1122fc6bc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2020-0471/ca6b0a211eb39ba85eed60ea740c85d1122fc6bc.tgz"
+    },
+    {
+      "cveId": "CVE-2020-15999",
+      "commitId": "358c238408a1fdc357d9afef6811369a7701e004",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2020-15999/358c238408a1fdc357d9afef6811369a7701e004.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0303",
+      "commitId": "768c8bfbe91db71e11eae2c57fb678ff2a5bf15e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0303/768c8bfbe91db71e11eae2c57fb678ff2a5bf15e.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0308",
+      "commitId": "6d369451868ce71618144c4f4bd645ae48f0d1c5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0308/6d369451868ce71618144c4f4bd645ae48f0d1c5.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0310",
+      "commitId": "dc6cb05ebe2cefdce215d797a8e418ba26c8c86c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0310/dc6cb05ebe2cefdce215d797a8e418ba26c8c86c.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0311",
+      "commitId": "8ea3bdb5ef11dad8e11a2c2cad34e91ad11657d0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0311/8ea3bdb5ef11dad8e11a2c2cad34e91ad11657d0.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0312",
+      "commitId": "bb460899b97f260e7ed556b578318b1133335e1c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0312/bb460899b97f260e7ed556b578318b1133335e1c.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0313",
+      "commitId": "ffb33bcf2520208166cb29f47c60add9c0e37349",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0313/ffb33bcf2520208166cb29f47c60add9c0e37349.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0316",
+      "commitId": "f328ab46d5419632aec221f95b186ec71077176e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0316/f328ab46d5419632aec221f95b186ec71077176e.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0318",
+      "commitId": "adb416ac460cb28ca03e7898bdd154b1d0f8c16b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0318/adb416ac460cb28ca03e7898bdd154b1d0f8c16b.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0320",
+      "commitId": "33b83f6f3211358568894f48e2aa03c8851e11b7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r26/CVE-2021-0320/33b83f6f3211358568894f48e2aa03c8851e11b7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-14491",
+      "commitId": "10ba39da6b98043989b1a604f533d5b647ee7bda",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r34/CVE-2017-14491/10ba39da6b98043989b1a604f533d5b647ee7bda.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0325",
+      "commitId": "fd7e28588f149c1683c4f7a0a1c543f51b1cd41a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r34/CVE-2021-0325/fd7e28588f149c1683c4f7a0a1c543f51b1cd41a.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0335",
+      "commitId": "5fe4a516e5f194b03153a9f544b4f79da18c46d0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r34/CVE-2021-0335/5fe4a516e5f194b03153a9f544b4f79da18c46d0.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0393",
+      "commitId": "a91d71434065cde21f480f5d92432b9a4f2f3521",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r34/CVE-2021-0393/a91d71434065cde21f480f5d92432b9a4f2f3521.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0394",
+      "commitId": "69fc841b8460943c2b2224f61585942cbc9f3f40",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r34/CVE-2021-0394/69fc841b8460943c2b2224f61585942cbc9f3f40.tgz"
+    },
+    {
+      "cveId": "CVE-2021-0396",
+      "commitId": "8daf19b2c8cf7b9325b53e9b93b1eac878759f23",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r34/CVE-2021-0396/8daf19b2c8cf7b9325b53e9b93b1eac878759f23.tgz"
+    },
+    {
+      "cveId": "CVE-2015-1528",
+      "commitId": "7dcd0ec9c91688cfa3f679804ba6e132f9811254",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-1528/7dcd0ec9c91688cfa3f679804ba6e132f9811254.tgz"
+    },
+    {
+      "cveId": "CVE-2015-1528",
+      "commitId": "e8c62fb484151f76ab88b1d5130f38de24ac8c14",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-1528/e8c62fb484151f76ab88b1d5130f38de24ac8c14.tgz"
+    },
+    {
+      "cveId": "CVE-2015-1536",
+      "commitId": "d44e5bde18a41beda39d49189bef7f2ba7c8f3cb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-1536/d44e5bde18a41beda39d49189bef7f2ba7c8f3cb.tgz"
+    },
+    {
+      "cveId": "CVE-2015-1538",
+      "commitId": "2434839bbd168469f80dd9a22f1328bc81046398",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-1538/2434839bbd168469f80dd9a22f1328bc81046398.tgz"
+    },
+    {
+      "cveId": "CVE-2015-1538",
+      "commitId": "cf1581c66c2ad8c5b1aaca2e43e350cf5974f46d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-1538/cf1581c66c2ad8c5b1aaca2e43e350cf5974f46d.tgz"
+    },
+    {
+      "cveId": "CVE-2015-1539",
+      "commitId": "5e751957ba692658b7f67eb03ae5ddb2cd3d970c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-1539/5e751957ba692658b7f67eb03ae5ddb2cd3d970c.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3824",
+      "commitId": "463a6f807e187828442949d1924e143cf07778c6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3824/463a6f807e187828442949d1924e143cf07778c6.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3826",
+      "commitId": "f4f7e0c102819f039ebb1972b3dba1d3186bc1d1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3826/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3827",
+      "commitId": "f4a88c8ed4f8186b3d6e2852993e063fc33ff231",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3827/f4a88c8ed4f8186b3d6e2852993e063fc33ff231.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3828",
+      "commitId": "f4f7e0c102819f039ebb1972b3dba1d3186bc1d1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3828/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3829",
+      "commitId": "2674a7218eaa3c87f2ee26d26da5b9170e10f859",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3829/2674a7218eaa3c87f2ee26d26da5b9170e10f859.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3831",
+      "commitId": "51504928746edff6c94a1c498cf99c0a83bedaed",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3831/51504928746edff6c94a1c498cf99c0a83bedaed.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3832",
+      "commitId": "d48f0f145f8f0f4472bc0af668ac9a8bce44ba9b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3832/d48f0f145f8f0f4472bc0af668ac9a8bce44ba9b.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3835",
+      "commitId": "086d84f45ab7b64d1a7ed7ac8ba5833664a6a5ab",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3835/086d84f45ab7b64d1a7ed7ac8ba5833664a6a5ab.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3835",
+      "commitId": "3cb1b6944e776863aea316e25fdc16d7f9962902",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3835/3cb1b6944e776863aea316e25fdc16d7f9962902.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3836",
+      "commitId": "e999f077f6ef59d20282f1e04786816a31fb8be6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3836/e999f077f6ef59d20282f1e04786816a31fb8be6.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3845",
+      "commitId": "e68cbc3e9e66df4231e70efa3e9c41abc12aea20",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3845/e68cbc3e9e66df4231e70efa3e9c41abc12aea20.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3849",
+      "commitId": "1e72dc7a3074cd0b44d89afbf39bbf5000ef7cc3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3849/1e72dc7a3074cd0b44d89afbf39bbf5000ef7cc3.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3849",
+      "commitId": "4cff1f49ff95d990d6c2614da5d5a23d02145885",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3849/4cff1f49ff95d990d6c2614da5d5a23d02145885.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3863",
+      "commitId": "bb9f4392c2f1b11be3acdc1737828274ff1ec55b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3863/bb9f4392c2f1b11be3acdc1737828274ff1ec55b.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3864",
+      "commitId": "6fe85f7e15203e48df2cc3e8e1c4bc6ad49dc968",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2015-3864/6fe85f7e15203e48df2cc3e8e1c4bc6ad49dc968.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0808",
+      "commitId": "ed4c8d79153baab7f26562afb8930652dfbf853b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-0808/ed4c8d79153baab7f26562afb8930652dfbf853b.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0837",
+      "commitId": "7a282fb64fef25349e9d341f102d9cea3bf75baf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-0837/7a282fb64fef25349e9d341f102d9cea3bf75baf.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0841",
+      "commitId": "3097f364237fb552871f7639d37a7afa4563e252",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-0841/3097f364237fb552871f7639d37a7afa4563e252.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0846",
+      "commitId": "f3199c228aced7858b75a8070b8358c155ae0149",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-0846/f3199c228aced7858b75a8070b8358c155ae0149.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0849",
+      "commitId": "28a566f7731b4cb76d2a9ba16d997ac5aeb07dad",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-0849/28a566f7731b4cb76d2a9ba16d997ac5aeb07dad.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0850",
+      "commitId": "c677ee92595335233eb0e7b59809a1a94e7a678a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-0850/c677ee92595335233eb0e7b59809a1a94e7a678a.tgz"
+    },
+    {
+      "cveId": "CVE-2016-1503",
+      "commitId": "1390ace71179f04a09c300ee8d0300aa69d9db09",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-1503/1390ace71179f04a09c300ee8d0300aa69d9db09.tgz"
+    },
+    {
+      "cveId": "CVE-2016-1621",
+      "commitId": "5a6788730acfc6fd8f4a6ef89d2c376572a26b55",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-1621/5a6788730acfc6fd8f4a6ef89d2c376572a26b55.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2412",
+      "commitId": "b36c23b3e6b0b316075cc43e466d44c62508fcac",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-2412/b36c23b3e6b0b316075cc43e466d44c62508fcac.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2413",
+      "commitId": "25be9ac20db51044e1b09ca67906355e4f328d48",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-2413/25be9ac20db51044e1b09ca67906355e4f328d48.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2414",
+      "commitId": "f4785aa1947b8d22d5b19559ef1ca526d98e0e73",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-2414/f4785aa1947b8d22d5b19559ef1ca526d98e0e73.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2416",
+      "commitId": "85d253fab5e2c01bd90990667c6de25c282fc5cd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-2416/85d253fab5e2c01bd90990667c6de25c282fc5cd.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2416",
+      "commitId": "a40b30f5c43726120bfe69d41ff5aeb31fe1d02a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-2416/a40b30f5c43726120bfe69d41ff5aeb31fe1d02a.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2417",
+      "commitId": "1171e7c047bf79e7c93342bb6a812c9edd86aa84",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-2417/1171e7c047bf79e7c93342bb6a812c9edd86aa84.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2420",
+      "commitId": "81df1cc77722000f8d0025c1ab00ced123aa573c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r38/CVE-2016-2420/81df1cc77722000f8d0025c1ab00ced123aa573c.tgz"
+    },
+    {
+      "cveId": "CVE-2015-0973",
+      "commitId": "dd0ed46397a05ae69dc8c401f5711f0db0a964fa",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r9/CVE-2015-0973/dd0ed46397a05ae69dc8c401f5711f0db0a964fa.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3834",
+      "commitId": "c82e31a7039a03dca7b37c65b7890ba5c1e18ced",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-5.1.1_r9/CVE-2015-3834/c82e31a7039a03dca7b37c65b7890ba5c1e18ced.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0840",
+      "commitId": "c57fc3703ae2e0d41b1f6580c50015937f2d23c1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r67/CVE-2016-0840/c57fc3703ae2e0d41b1f6580c50015937f2d23c1.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3743",
+      "commitId": "ecf6c7ce6d5a22d52160698aab44fc234c63291a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3743/ecf6c7ce6d5a22d52160698aab44fc234c63291a.tgz"
+    },
+    {
+      "cveId": "CVE-2012-6702",
+      "commitId": "a11ff32280a863bff93df13ad643912ad9bf1302",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2012-6702/a11ff32280a863bff93df13ad643912ad9bf1302.tgz"
+    },
+    {
+      "cveId": "CVE-2014-9675",
+      "commitId": "96f965ff7411f1edba72140fd70740e63cabec71",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2014-9675/96f965ff7411f1edba72140fd70740e63cabec71.tgz"
+    },
+    {
+      "cveId": "CVE-2015-1283",
+      "commitId": "13b40c2040a17038b63a61e2b112c634da203d3b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2015-1283/13b40c2040a17038b63a61e2b112c634da203d3b.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0705",
+      "commitId": "591be84e89682622957c8f103ca4be3a5ed0f800",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-0705/591be84e89682622957c8f103ca4be3a5ed0f800.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0718",
+      "commitId": "52ac633b73856ded34b33bd4adb4ab793bbbe963",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-0718/52ac633b73856ded34b33bd4adb4ab793bbbe963.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2108",
+      "commitId": "74750e1fb24149043a533497f79c577b704d6e30",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2108/74750e1fb24149043a533497f79c577b704d6e30.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2429",
+      "commitId": "b499389da21d89d32deff500376c5ee4f8f0b04c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2429/b499389da21d89d32deff500376c5ee4f8f0b04c.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2430",
+      "commitId": "ad54cfed4516292654c997910839153264ae00a0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2430/ad54cfed4516292654c997910839153264ae00a0.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2439",
+      "commitId": "9b534de2aca5d790c2a1c4d76b545f16137d95dd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2439/9b534de2aca5d790c2a1c4d76b545f16137d95dd.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2440",
+      "commitId": "a59b827869a2ea04022dd225007f29af8d61837a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2440/a59b827869a2ea04022dd225007f29af8d61837a.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2459",
+      "commitId": "a30d7d90c4f718e46fb41a99b3d52800e1011b73",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2459/a30d7d90c4f718e46fb41a99b3d52800e1011b73.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2460",
+      "commitId": "a30d7d90c4f718e46fb41a99b3d52800e1011b73",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2460/a30d7d90c4f718e46fb41a99b3d52800e1011b73.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2464",
+      "commitId": "65c49d5b382de4085ee5668732bcb0f6ecaf7148",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2464/65c49d5b382de4085ee5668732bcb0f6ecaf7148.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2494",
+      "commitId": "864e2e22fcd0cba3f5e67680ccabd0302dfda45d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2494/864e2e22fcd0cba3f5e67680ccabd0302dfda45d.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2496",
+      "commitId": "03a53d1c7765eeb3af0bc34c3dff02ada1953fbf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-2496/03a53d1c7765eeb3af0bc34c3dff02ada1953fbf.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3741",
+      "commitId": "cc676ebd95247646e67907ccab150fb77a847335",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3741/cc676ebd95247646e67907ccab150fb77a847335.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3741",
+      "commitId": "e629194c62a9a129ce378e08cb1059a8a53f1795",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3741/e629194c62a9a129ce378e08cb1059a8a53f1795.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3742",
+      "commitId": "a583270e1c96d307469c83dc42bd3c5f1b9ef63f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3742/a583270e1c96d307469c83dc42bd3c5f1b9ef63f.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3744",
+      "commitId": "514139f4b40cbb035bb92f3e24d5a389d75db9e6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3744/514139f4b40cbb035bb92f3e24d5a389d75db9e6.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3750",
+      "commitId": "54cb02ad733fb71b1bdf78590428817fb780aff8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3750/54cb02ad733fb71b1bdf78590428817fb780aff8.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3754",
+      "commitId": "6fdee2a83432b3b150d6a34f231c4e2f7353c01e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3754/6fdee2a83432b3b150d6a34f231c4e2f7353c01e.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3755",
+      "commitId": "d4841f1161bdb5e13cb19e81af42437a634dd6ef",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3755/d4841f1161bdb5e13cb19e81af42437a634dd6ef.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3756",
+      "commitId": "659030a2e80c38fb8da0a4eb68695349eec6778b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3756/659030a2e80c38fb8da0a4eb68695349eec6778b.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3757",
+      "commitId": "ae18eb014609948a40e22192b87b10efc680daa7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3757/ae18eb014609948a40e22192b87b10efc680daa7.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3758",
+      "commitId": "338aeaf28e9981c15d0673b18487dba61eb5447c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3758/338aeaf28e9981c15d0673b18487dba61eb5447c.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3760",
+      "commitId": "122feb9a0b04290f55183ff2f0384c6c53756bd8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3760/122feb9a0b04290f55183ff2f0384c6c53756bd8.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3760",
+      "commitId": "37c88107679d36c419572732b4af6e18bb2f7dce",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3760/37c88107679d36c419572732b4af6e18bb2f7dce.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3765",
+      "commitId": "d1c775d1d8d2ed117d1e026719b7f9f089716597",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3765/d1c775d1d8d2ed117d1e026719b7f9f089716597.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3766",
+      "commitId": "6fdee2a83432b3b150d6a34f231c4e2f7353c01e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3766/6fdee2a83432b3b150d6a34f231c4e2f7353c01e.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3820",
+      "commitId": "a78887bcffbc2995cf9ed72e0697acf560875e9e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3820/a78887bcffbc2995cf9ed72e0697acf560875e9e.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3822",
+      "commitId": "bae671597d47b9e5955c4cb742e468cebfd7ca6b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3822/bae671597d47b9e5955c4cb742e468cebfd7ca6b.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3828",
+      "commitId": "7554755536019e439433c515eeb44e701fb3bfb2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3828/7554755536019e439433c515eeb44e701fb3bfb2.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3829",
+      "commitId": "326fe991a4b7971e8aeaf4ac775491dd8abd85bb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3829/326fe991a4b7971e8aeaf4ac775491dd8abd85bb.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3836",
+      "commitId": "3bcf0caa8cca9143443814b36676b3bae33a4368",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3836/3bcf0caa8cca9143443814b36676b3bae33a4368.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3837",
+      "commitId": "a209ff12ba9617c10550678ff93d01fb72a33399",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3837/a209ff12ba9617c10550678ff93d01fb72a33399.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3878",
+      "commitId": "7109ce3f8f90a28ca9f0ee6e14f6ac5e414c62cf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3878/7109ce3f8f90a28ca9f0ee6e14f6ac5e414c62cf.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3879",
+      "commitId": "cadfb7a3c96d4fef06656cf37143e1b3e62cae86",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-3879/cadfb7a3c96d4fef06656cf37143e1b3e62cae86.tgz"
+    },
+    {
+      "cveId": "CVE-2016-5300",
+      "commitId": "a11ff32280a863bff93df13ad643912ad9bf1302",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-5300/a11ff32280a863bff93df13ad643912ad9bf1302.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6711",
+      "commitId": "063be1485e0099bc81ace3a08b0ec9186dcad693",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-6711/063be1485e0099bc81ace3a08b0ec9186dcad693.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6712",
+      "commitId": "fdb1b40e7bb147c07bda988c9501ad223795d12d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-6.0.1_r80/CVE-2016-6712/fdb1b40e7bb147c07bda988c9501ad223795d12d.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3861",
+      "commitId": "1f4b49e64adf4623eefda503bca61e253597b9bf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3861/1f4b49e64adf4623eefda503bca61e253597b9bf.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3861",
+      "commitId": "3944c65637dfed14a5a895685edfa4bacaf9f76e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3861/3944c65637dfed14a5a895685edfa4bacaf9f76e.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3861",
+      "commitId": "866dc26ad4a98cc835d075b627326e7d7e52ffa1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3861/866dc26ad4a98cc835d075b627326e7d7e52ffa1.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3861",
+      "commitId": "ecf5fd58a8f50362ce9e8d4245a33d56f29f142b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3861/ecf5fd58a8f50362ce9e8d4245a33d56f29f142b.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3863",
+      "commitId": "119a012b2a9a186655da4bef3ed4ed8dd9b94c26",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3863/119a012b2a9a186655da4bef3ed4ed8dd9b94c26.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3870",
+      "commitId": "1e9801783770917728b7edbdeff3d0ec09c621ac",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3870/1e9801783770917728b7edbdeff3d0ec09c621ac.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3871",
+      "commitId": "3c4edac2a5b00dec6c8579a0ee658cfb3bb16d94",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3871/3c4edac2a5b00dec6c8579a0ee658cfb3bb16d94.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3871",
+      "commitId": "c17ad2f0c7e00fd1bbf01d0dfed41f72d78267ad",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3871/c17ad2f0c7e00fd1bbf01d0dfed41f72d78267ad.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3871",
+      "commitId": "c2639afac631f5c1ffddf70ee8a6fe943d0bedf9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3871/c2639afac631f5c1ffddf70ee8a6fe943d0bedf9.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3872",
+      "commitId": "630ed150f7201ddadb00b8b8ce0c55c4cc6e8742",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3872/630ed150f7201ddadb00b8b8ce0c55c4cc6e8742.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3872",
+      "commitId": "9f9ba255a0c59544f3555c9c45512c3a2fac5fad",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3872/9f9ba255a0c59544f3555c9c45512c3a2fac5fad.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3880",
+      "commitId": "68f67ef6cf1f41e77337be3bc4bff91f3a3c6324",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3880/68f67ef6cf1f41e77337be3bc4bff91f3a3c6324.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3881",
+      "commitId": "4974dcbd0289a2530df2ee2a25b5f92775df80da",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3881/4974dcbd0289a2530df2ee2a25b5f92775df80da.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3885",
+      "commitId": "d7603583f90c2bc6074a4ee2886bd28082d7c65b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3885/d7603583f90c2bc6074a4ee2886bd28082d7c65b.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3895",
+      "commitId": "363247929c35104b3e5ee9e637e9dcf579080aee",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3895/363247929c35104b3e5ee9e637e9dcf579080aee.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3900",
+      "commitId": "047eec456943dc082e33220d28abb7df4e089f69",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3900/047eec456943dc082e33220d28abb7df4e089f69.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3900",
+      "commitId": "d3c6ce463ac91ecbeb2128beb475d31d3ca6ef42",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3900/d3c6ce463ac91ecbeb2128beb475d31d3ca6ef42.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3909",
+      "commitId": "c48ef757cc50906e8726a3bebc3b60716292cdba",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3909/c48ef757cc50906e8726a3bebc3b60716292cdba.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3909",
+      "commitId": "d4271b792bdad85a80e2b83ab34c4b30b74f53ec",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3909/d4271b792bdad85a80e2b83ab34c4b30b74f53ec.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3910",
+      "commitId": "035cb12f392860113dce96116a5150e2fde6f0cc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3910/035cb12f392860113dce96116a5150e2fde6f0cc.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3913",
+      "commitId": "0c3b93c8c2027e74af642967eee5c142c8fd185d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3913/0c3b93c8c2027e74af642967eee5c142c8fd185d.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3915",
+      "commitId": "e9e44f797742f52996ebf307740dad58c28fd9b5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3915/e9e44f797742f52996ebf307740dad58c28fd9b5.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3916",
+      "commitId": "8e7a2b4d13bff03973dbad2bfb88a04296140433",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3916/8e7a2b4d13bff03973dbad2bfb88a04296140433.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3920",
+      "commitId": "6d0249be2275fd4086783f259f4e2c54722a7c55",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3920/6d0249be2275fd4086783f259f4e2c54722a7c55.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3922",
+      "commitId": "95610818918f6f11fe7d23aca1380e6c0fac2af0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3922/95610818918f6f11fe7d23aca1380e6c0fac2af0.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3924",
+      "commitId": "c894aa36be535886a8e5ff02cdbcd07dd24618f6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-3924/c894aa36be535886a8e5ff02cdbcd07dd24618f6.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6699",
+      "commitId": "3b1c9f692c4d4b7a683c2b358fc89e831a641b88",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6699/3b1c9f692c4d4b7a683c2b358fc89e831a641b88.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6701",
+      "commitId": "aca73722873e908633ff27375f6f93a08cbb7dd3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6701/aca73722873e908633ff27375f6f93a08cbb7dd3.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6704",
+      "commitId": "a6274f03b4dfe1c3a22af51e3a17ea56a314e747",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6704/a6274f03b4dfe1c3a22af51e3a17ea56a314e747.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6704",
+      "commitId": "c6c446f9e022adf20064e65a17574804f8af8e7d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6704/c6c446f9e022adf20064e65a17574804f8af8e7d.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6705",
+      "commitId": "3a03fa24d21f97e84e796ac5ef14b3f434c0e8f1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6705/3a03fa24d21f97e84e796ac5ef14b3f434c0e8f1.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6705",
+      "commitId": "bd04b47d38a89f1dada1c6da2ef4a3d235c166b8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6705/bd04b47d38a89f1dada1c6da2ef4a3d235c166b8.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6706",
+      "commitId": "1d4feebdb85db46e138530f360d9ff2490e14353",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6706/1d4feebdb85db46e138530f360d9ff2490e14353.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6707",
+      "commitId": "16024ea7c4bae08c972cf6b3734029aad33e8870",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6707/16024ea7c4bae08c972cf6b3734029aad33e8870.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6709",
+      "commitId": "44ef9535b9afb123d150d8e0362e4bb50794dd41",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6709/44ef9535b9afb123d150d8e0362e4bb50794dd41.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6713",
+      "commitId": "8cafca0e8b1ed8125918e203118c5a4e612fd56c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6713/8cafca0e8b1ed8125918e203118c5a4e612fd56c.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6714",
+      "commitId": "5bdb0a6b72782e505671a387bb5f83222d891d6a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6714/5bdb0a6b72782e505671a387bb5f83222d891d6a.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6717",
+      "commitId": "45d9bbabbe7920bf4e0a68074b97d8260aef2e07",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6717/45d9bbabbe7920bf4e0a68074b97d8260aef2e07.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6720",
+      "commitId": "0f177948ae2640bfe4d70f8e4248e106406b3b0a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6720/0f177948ae2640bfe4d70f8e4248e106406b3b0a.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6720",
+      "commitId": "2c75e1c3b98e4e94f50c63e2b7694be5f948477c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6720/2c75e1c3b98e4e94f50c63e2b7694be5f948477c.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6720",
+      "commitId": "640b04121d7cd2cac90e2f7c82b97fce05f074a5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6720/640b04121d7cd2cac90e2f7c82b97fce05f074a5.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6720",
+      "commitId": "7c88b498fda1c2b608a9dd73960a2fd4d7b7e3f7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6720/7c88b498fda1c2b608a9dd73960a2fd4d7b7e3f7.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6721",
+      "commitId": "f6bf0102bdc1adff973e08d8ce9c869c4e2efade",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6721/f6bf0102bdc1adff973e08d8ce9c869c4e2efade.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6722",
+      "commitId": "89c03b3b9ff74a507a8b8334c50b08b334483556",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.0.0_r15/CVE-2016-6722/89c03b3b9ff74a507a8b8334c50b08b334483556.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0382",
+      "commitId": "7f0e3dab5a892228d8dead7f0221cc9ae82474f7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r20/CVE-2017-0382/7f0e3dab5a892228d8dead7f0221cc9ae82474f7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0408",
+      "commitId": "e6da772e70c9754966aabf4ddac73bb99eb1742b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r22/CVE-2017-0408/e6da772e70c9754966aabf4ddac73bb99eb1742b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0418",
+      "commitId": "534098cb29e1e4151ba2ed83d6a911d0b6f48522",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r22/CVE-2017-0418/534098cb29e1e4151ba2ed83d6a911d0b6f48522.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0381",
+      "commitId": "0d052d64480a30e83fcdda80f4774624e044beb7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0381/0d052d64480a30e83fcdda80f4774624e044beb7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0383",
+      "commitId": "e5753ba087fa59ee02f6026cc13b1ceb42a1f266",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0383/e5753ba087fa59ee02f6026cc13b1ceb42a1f266.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0384",
+      "commitId": "321ea5257e37c8edb26e66fe4ee78cca4cd915fe",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0384/321ea5257e37c8edb26e66fe4ee78cca4cd915fe.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0386",
+      "commitId": "f0b40192efd1af977564ed6335d42a8bbdaf650a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0386/f0b40192efd1af977564ed6335d42a8bbdaf650a.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0387",
+      "commitId": "675e212c8c6653825cc3352c603caf2e40b00f9f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0387/675e212c8c6653825cc3352c603caf2e40b00f9f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0391",
+      "commitId": "a33f6725d7e9f92330f995ce2dcf4faa33f6433f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0391/a33f6725d7e9f92330f995ce2dcf4faa33f6433f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0392",
+      "commitId": "453b351ac5bd2b6619925dc966da60adf6b3126c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0392/453b351ac5bd2b6619925dc966da60adf6b3126c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0393",
+      "commitId": "6886e8e0a9db2dbad723dc37a548233e004b33bc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0393/6886e8e0a9db2dbad723dc37a548233e004b33bc.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0396",
+      "commitId": "557bd7bfe6c4895faee09e46fc9b5304a956c8b7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0396/557bd7bfe6c4895faee09e46fc9b5304a956c8b7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0397",
+      "commitId": "7a3246b870ddd11861eda2ab458b11d723c7f62c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0397/7a3246b870ddd11861eda2ab458b11d723c7f62c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0398",
+      "commitId": "26965db50a617f69bdefca0d7533796c80374f2c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0398/26965db50a617f69bdefca0d7533796c80374f2c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0399",
+      "commitId": "c66c43ad571ed2590dcd55a762c73c90d9744bac",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0399/c66c43ad571ed2590dcd55a762c73c90d9744bac.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0402",
+      "commitId": "c66c43ad571ed2590dcd55a762c73c90d9744bac",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0402/c66c43ad571ed2590dcd55a762c73c90d9744bac.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0405",
+      "commitId": "16110b86db164e8d2b6864fed58f0385fe7d0979",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0405/16110b86db164e8d2b6864fed58f0385fe7d0979.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0406",
+      "commitId": "df7b56457184600e3d2b7cbac87ebe7001f7cb48",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0406/df7b56457184600e3d2b7cbac87ebe7001f7cb48.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0406",
+      "commitId": "fed702734d86801cc86b4865a57e2f2028c4b575",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0406/fed702734d86801cc86b4865a57e2f2028c4b575.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0409",
+      "commitId": "72886b6964f6539908c8e127cd13c3091d2e5a8b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0409/72886b6964f6539908c8e127cd13c3091d2e5a8b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0410",
+      "commitId": "b4d6b292bce7d82c93fd454078dedf5a1302b9fa",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0410/b4d6b292bce7d82c93fd454078dedf5a1302b9fa.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0415",
+      "commitId": "2e16d5fac149dab3c3e8f1b2ca89f45cf55a7b34",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0415/2e16d5fac149dab3c3e8f1b2ca89f45cf55a7b34.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0416",
+      "commitId": "321ea5257e37c8edb26e66fe4ee78cca4cd915fe",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0416/321ea5257e37c8edb26e66fe4ee78cca4cd915fe.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0416",
+      "commitId": "b0bcddb44d992e74140a3f5eedc7177977ea8e34",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0416/b0bcddb44d992e74140a3f5eedc7177977ea8e34.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0418",
+      "commitId": "b0bcddb44d992e74140a3f5eedc7177977ea8e34",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0418/b0bcddb44d992e74140a3f5eedc7177977ea8e34.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0419",
+      "commitId": "a155de4d70e0b9ac8fc02b2bdcbb2e8e6cca46ff",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0419/a155de4d70e0b9ac8fc02b2bdcbb2e8e6cca46ff.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0422",
+      "commitId": "dba3df609436d7697305735818f0a840a49f1a0d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0422/dba3df609436d7697305735818f0a840a49f1a0d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0424",
+      "commitId": "e9b7e3a6b7a8886693d298401a20788816a5afdc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0424/e9b7e3a6b7a8886693d298401a20788816a5afdc.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0425",
+      "commitId": "a155de4d70e0b9ac8fc02b2bdcbb2e8e6cca46ff",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r23/CVE-2017-0425/a155de4d70e0b9ac8fc02b2bdcbb2e8e6cca46ff.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0476",
+      "commitId": "8ba22b48ebff50311d7eaa8d512f9d507f0bdd0d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r28/CVE-2017-0476/8ba22b48ebff50311d7eaa8d512f9d507f0bdd0d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0477",
+      "commitId": "fba04a52f43315cdb7dd38766822af0324eab7c5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r48/CVE-2017-0477/fba04a52f43315cdb7dd38766822af0324eab7c5.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0485",
+      "commitId": "3695b6bdaa183bb2852da06b63ebd5b9c2cace36",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0485/3695b6bdaa183bb2852da06b63ebd5b9c2cace36.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2182",
+      "commitId": "54bf62a81586d99d0a951ca3342d569b59e69b80",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2016-2182/54bf62a81586d99d0a951ca3342d569b59e69b80.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0466",
+      "commitId": "c4f152575bd6d8cc6db1f89806e2ba1fd1bb314f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0466/c4f152575bd6d8cc6db1f89806e2ba1fd1bb314f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0466",
+      "commitId": "ec9ab83ac437d31f484a86643e2cc66db8efae4c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0466/ec9ab83ac437d31f484a86643e2cc66db8efae4c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0468",
+      "commitId": "0e8b1dff88e08b9d738d2360f05b96108e190995",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0468/0e8b1dff88e08b9d738d2360f05b96108e190995.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0469",
+      "commitId": "21851eaecc814be709cb0c20f732cb858cfe1440",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0469/21851eaecc814be709cb0c20f732cb858cfe1440.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0470",
+      "commitId": "6aac82003d665708b4e21e9b91693b642e2fa64f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0470/6aac82003d665708b4e21e9b91693b642e2fa64f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0471",
+      "commitId": "4a61d15e7b0ab979ba7e80db8ddbde025c1ce6cc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0471/4a61d15e7b0ab979ba7e80db8ddbde025c1ce6cc.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0472",
+      "commitId": "dfa7251ff270ae7e12a019e6735542e36b2a47e0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0472/dfa7251ff270ae7e12a019e6735542e36b2a47e0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0473",
+      "commitId": "0a4463e2beddb8290e05ad552e48b17686f854ce",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0473/0a4463e2beddb8290e05ad552e48b17686f854ce.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0474",
+      "commitId": "6f5927de29337fa532c64d0ef8c7cb68f7c89889",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0474/6f5927de29337fa532c64d0ef8c7cb68f7c89889.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0475",
+      "commitId": "2c6c23f651abb3d215134dfba463eb72a5e9f8eb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0475/2c6c23f651abb3d215134dfba463eb72a5e9f8eb.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0478",
+      "commitId": "7c824f17b3eea976ca58be7ea097cb807126f73b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0478/7c824f17b3eea976ca58be7ea097cb807126f73b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0479",
+      "commitId": "8415635765380be496da9b4578d8f134a527d86b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0479/8415635765380be496da9b4578d8f134a527d86b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0480",
+      "commitId": "8415635765380be496da9b4578d8f134a527d86b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0480/8415635765380be496da9b4578d8f134a527d86b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0481",
+      "commitId": "c67cc6ad2addddcb7185a33b08d27290ce54e350",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0481/c67cc6ad2addddcb7185a33b08d27290ce54e350.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0482",
+      "commitId": "0e8b1dff88e08b9d738d2360f05b96108e190995",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0482/0e8b1dff88e08b9d738d2360f05b96108e190995.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0482",
+      "commitId": "3695b6bdaa183bb2852da06b63ebd5b9c2cace36",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0482/3695b6bdaa183bb2852da06b63ebd5b9c2cace36.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0482",
+      "commitId": "a467b1fb2956fdcee5636ab63573a4bca8150dbe",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0482/a467b1fb2956fdcee5636ab63573a4bca8150dbe.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0482",
+      "commitId": "c4f152575bd6d8cc6db1f89806e2ba1fd1bb314f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0482/c4f152575bd6d8cc6db1f89806e2ba1fd1bb314f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0482",
+      "commitId": "ec9ab83ac437d31f484a86643e2cc66db8efae4c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0482/ec9ab83ac437d31f484a86643e2cc66db8efae4c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0482",
+      "commitId": "fd9a12f9fdd9dd3e66c59dd7037e864b948085f7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0482/fd9a12f9fdd9dd3e66c59dd7037e864b948085f7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0483",
+      "commitId": "5cabe32a59f9be1e913b6a07a23d4cfa55e3fb2f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0483/5cabe32a59f9be1e913b6a07a23d4cfa55e3fb2f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0483",
+      "commitId": "bc62c086e9ba7530723dc8874b83159f4d77d976",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0483/bc62c086e9ba7530723dc8874b83159f4d77d976.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0484",
+      "commitId": "a467b1fb2956fdcee5636ab63573a4bca8150dbe",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0484/a467b1fb2956fdcee5636ab63573a4bca8150dbe.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0484",
+      "commitId": "fd9a12f9fdd9dd3e66c59dd7037e864b948085f7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0484/fd9a12f9fdd9dd3e66c59dd7037e864b948085f7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0486",
+      "commitId": "19814b7ad4ea6f0cc4cab34e50ebab2e180fc269",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0486/19814b7ad4ea6f0cc4cab34e50ebab2e180fc269.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0487",
+      "commitId": "aa78b96e842fc1fb70a18acff22be35c7a715b23",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0487/aa78b96e842fc1fb70a18acff22be35c7a715b23.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0488",
+      "commitId": "0340381cd8c220311fd4fe2e8b23e1534657e399",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0488/0340381cd8c220311fd4fe2e8b23e1534657e399.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0494",
+      "commitId": "3f9821128abd66c4cd2f040d8243efb334bfad2d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0494/3f9821128abd66c4cd2f040d8243efb334bfad2d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0495",
+      "commitId": "85c0ec4106659a11c220cd1210f8d76c33d9e2ae",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0495/85c0ec4106659a11c220cd1210f8d76c33d9e2ae.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0497",
+      "commitId": "8888cbf8e74671d44e9ff92ec3847cd647b8cdfb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0497/8888cbf8e74671d44e9ff92ec3847cd647b8cdfb.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0756",
+      "commitId": "9aa026d0b867b270149dd7323ce36f4f9bfea980",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0756/9aa026d0b867b270149dd7323ce36f4f9bfea980.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0757",
+      "commitId": "bb88d4430189b66270c66ff9167fc5bcf4356cf2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0757/bb88d4430189b66270c66ff9167fc5bcf4356cf2.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0758",
+      "commitId": "4a534a34b14944f3513b7c101fc74ab0ec9eac0d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0758/4a534a34b14944f3513b7c101fc74ab0ec9eac0d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0759",
+      "commitId": "6c91acf543ea20281f7e3d83414fab3cc64f1938",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0759/6c91acf543ea20281f7e3d83414fab3cc64f1938.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0760",
+      "commitId": "9cb10d49b1319ea1207cc2f445089aa9266ffc71",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0760/9cb10d49b1319ea1207cc2f445089aa9266ffc71.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0761",
+      "commitId": "ce512058186120a0de2916f6e22be58455df1a49",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0761/ce512058186120a0de2916f6e22be58455df1a49.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0762",
+      "commitId": "50acbc692998474c598834c9453ca9675b8fb95b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0762/50acbc692998474c598834c9453ca9675b8fb95b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0763",
+      "commitId": "0b57e70715c17e038b2fec0f808c1cd2172f4775",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0763/0b57e70715c17e038b2fec0f808c1cd2172f4775.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0764",
+      "commitId": "dbf3d0fa7b89aa09ec7bf69699f6233c59070dbc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0764/dbf3d0fa7b89aa09ec7bf69699f6233c59070dbc.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0765",
+      "commitId": "7c4c7fa208e31dc6f355a4488f267122015730a3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0765/7c4c7fa208e31dc6f355a4488f267122015730a3.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0767",
+      "commitId": "2410a6fa4286efc8c5b5a5f33f6eeb023bfb6abb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0767/2410a6fa4286efc8c5b5a5f33f6eeb023bfb6abb.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0768",
+      "commitId": "d8cc1fe9294accf05c6afcbe7821a485b9939af7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0768/d8cc1fe9294accf05c6afcbe7821a485b9939af7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0769",
+      "commitId": "0be8a2541594feec746195d6dbbc0db6c602175e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0769/0be8a2541594feec746195d6dbbc0db6c602175e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0770",
+      "commitId": "292d85545c6dec3c4386ec1fc2877597ea0ac5cc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0770/292d85545c6dec3c4386ec1fc2877597ea0ac5cc.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0771",
+      "commitId": "f593adeec75fe65771dfe67deca33fa4434b4e8a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0771/f593adeec75fe65771dfe67deca33fa4434b4e8a.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0772",
+      "commitId": "1e0b52c25b20685ff9d6a14603b6a30f698824a7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0772/1e0b52c25b20685ff9d6a14603b6a30f698824a7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0773",
+      "commitId": "9a03f9511559f82d034603e1df1425a4e0650f92",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0773/9a03f9511559f82d034603e1df1425a4e0650f92.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0774",
+      "commitId": "5f56ec847a7f6250abd36a2f8a7b7baf4f966d11",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0774/5f56ec847a7f6250abd36a2f8a7b7baf4f966d11.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0774",
+      "commitId": "d4af2450c500c7d153fd66771b613f6e6882bf08",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0774/d4af2450c500c7d153fd66771b613f6e6882bf08.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0775",
+      "commitId": "a1d5b40aaaa050af40c0f95d8b2d3e1ae8cfebbf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0775/a1d5b40aaaa050af40c0f95d8b2d3e1ae8cfebbf.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0776",
+      "commitId": "5863b2e39357d82d53b3163afd38ad3bb0a07042",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0776/5863b2e39357d82d53b3163afd38ad3bb0a07042.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0777",
+      "commitId": "112d9533b13134edbf4b7ee17db735b4b1468297",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0777/112d9533b13134edbf4b7ee17db735b4b1468297.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0778",
+      "commitId": "d7a044350bc151c7f7c04e04aaf136488630d655",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0778/d7a044350bc151c7f7c04e04aaf136488630d655.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0779",
+      "commitId": "b58464fa783c75ba9d304f670a4392df6fa98ed8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0779/b58464fa783c75ba9d304f670a4392df6fa98ed8.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0779",
+      "commitId": "ff4c8310ab7976ea9930b1dc4e3383720d5b5a8d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.1_r52/CVE-2017-0779/ff4c8310ab7976ea9930b1dc4e3383720d5b5a8d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0558",
+      "commitId": "50358a80b1724f6cf1bcdf003e1abf9cc141b122",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r1/CVE-2017-0558/50358a80b1724f6cf1bcdf003e1abf9cc141b122.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0638",
+      "commitId": "a98943dd4aece3024f023f00256607d50dcbcd1e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r12/CVE-2017-0638/a98943dd4aece3024f023f00256607d50dcbcd1e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0700",
+      "commitId": "38889ebd9b9c682bd1b64fd251ecd69b504a6155",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r18/CVE-2017-0700/38889ebd9b9c682bd1b64fd251ecd69b504a6155.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0701",
+      "commitId": "85e94f5b67c1beb9402c4de82bd481a5202470de",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r18/CVE-2017-0701/85e94f5b67c1beb9402c4de82bd481a5202470de.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0701",
+      "commitId": "bd4c825d8fc5dd48f5c602e673ae210909b31fd0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r18/CVE-2017-0701/bd4c825d8fc5dd48f5c602e673ae210909b31fd0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0702",
+      "commitId": "5d46e9a1784c02f347af107a978fe9fbd7af7fb2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r18/CVE-2017-0702/5d46e9a1784c02f347af107a978fe9fbd7af7fb2.tgz"
+    },
+    {
+      "cveId": "CVE-2014-9028",
+      "commitId": "5859ae22db0a2d16af3e3ca19d582de37daf5eb6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2014-9028/5859ae22db0a2d16af3e3ca19d582de37daf5eb6.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3863",
+      "commitId": "0d5935262dbbcaf2cf6145529ffd71a728ef4609",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-3863/0d5935262dbbcaf2cf6145529ffd71a728ef4609.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3874",
+      "commitId": "5d2e7de37d4a28cf25cc5d0c64b3a29c1824dc0a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-3874/5d2e7de37d4a28cf25cc5d0c64b3a29c1824dc0a.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3874",
+      "commitId": "8a9f53ee2c661e8b5b94d6e9fbb8af3baa34310d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-3874/8a9f53ee2c661e8b5b94d6e9fbb8af3baa34310d.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3874",
+      "commitId": "8cbef48ba6e3d3f844b895f8ca1a1aee74414fff",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-3874/8cbef48ba6e3d3f844b895f8ca1a1aee74414fff.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3874",
+      "commitId": "f333a822c38c3d92f40e8f1686348e6a62c291",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-3874/f333a822c38c3d92f40e8f1686348e6a62c291.tgz"
+    },
+    {
+      "cveId": "CVE-2015-5310",
+      "commitId": "1e9857b5f1dd84ac5a0ada0150b1b9c87d44d99d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-5310/1e9857b5f1dd84ac5a0ada0150b1b9c87d44d99d.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6608",
+      "commitId": "b3c5a4bb8442ab3158fa1f52b790fadc64546f46",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-6608/b3c5a4bb8442ab3158fa1f52b790fadc64546f46.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6613",
+      "commitId": "74dad51510f7d7b05c6617ef88168bf0bbdf3fcd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-6613/74dad51510f7d7b05c6617ef88168bf0bbdf3fcd.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6616",
+      "commitId": "2ee0c1bced131ffb06d1b430b08a202cd3a52005",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-6616/2ee0c1bced131ffb06d1b430b08a202cd3a52005.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6636",
+      "commitId": "b9f7c2c45c6fe770b7daffb9a4e61522d1f12d51",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-6636/b9f7c2c45c6fe770b7daffb9a4e61522d1f12d51.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6636",
+      "commitId": "e8bfec1fa41eafa1fd8e05d0fdc53ea0f2379518",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-6636/e8bfec1fa41eafa1fd8e05d0fdc53ea0f2379518.tgz"
+    },
+    {
+      "cveId": "CVE-2015-7555",
+      "commitId": "dc07290edccc2c3fc4062da835306f809cea1fdc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2015-7555/dc07290edccc2c3fc4062da835306f809cea1fdc.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0807",
+      "commitId": "d917514bd6b270df431ea4e781a865764d406120",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0807/d917514bd6b270df431ea4e781a865764d406120.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0816",
+      "commitId": "4a524d3a8ae9aa20c36430008e6bd429443f8f1d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0816/4a524d3a8ae9aa20c36430008e6bd429443f8f1d.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0824",
+      "commitId": "ffab15eb80630dc799eb410855c93525b75233c3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0824/ffab15eb80630dc799eb410855c93525b75233c3.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0835",
+      "commitId": "58a6822d7140137ce957c6d2fc20bae1374186c1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0835/58a6822d7140137ce957c6d2fc20bae1374186c1.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0835",
+      "commitId": "ba604d336b40fd4bde1622f64d67135bdbd61301",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0835/ba604d336b40fd4bde1622f64d67135bdbd61301.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0836",
+      "commitId": "8b4ed5a23175b7ffa56eea4678db7287f825e985",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0836/8b4ed5a23175b7ffa56eea4678db7287f825e985.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0838",
+      "commitId": "24d7c408c52143bce7b49de82f3913fd8d1219cf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0838/24d7c408c52143bce7b49de82f3913fd8d1219cf.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0838",
+      "commitId": "3ac044334c3ff6a61cb4238ff3ddaf17c7efcf49",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0838/3ac044334c3ff6a61cb4238ff3ddaf17c7efcf49.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0842",
+      "commitId": "943323f1d9d3dd5c2634deb26cbe72343ca6b3db",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-0842/943323f1d9d3dd5c2634deb26cbe72343ca6b3db.tgz"
+    },
+    {
+      "cveId": "CVE-2016-1839",
+      "commitId": "ff20cd797822dba8569ee518c44e6864d6b4ebfa",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-1839/ff20cd797822dba8569ee518c44e6864d6b4ebfa.tgz"
+    },
+    {
+      "cveId": "CVE-2016-3921",
+      "commitId": "771ab014c24a682b32990da08e87e2f0ab765bd2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-3921/771ab014c24a682b32990da08e87e2f0ab765bd2.tgz"
+    },
+    {
+      "cveId": "CVE-2016-4658",
+      "commitId": "8ea80f29ea5fdf383ee3ae59ce35e55421a339f8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-4658/8ea80f29ea5fdf383ee3ae59ce35e55421a339f8.tgz"
+    },
+    {
+      "cveId": "CVE-2016-5131",
+      "commitId": "0eff71008becb7f2c2b4509708da4b79985948bb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-5131/0eff71008becb7f2c2b4509708da4b79985948bb.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6762",
+      "commitId": "1ee4892e66ba314131b7ecf17e98bb1762c4b84c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6762/1ee4892e66ba314131b7ecf17e98bb1762c4b84c.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6764",
+      "commitId": "0d13824315b0491d44e9c6eb5db06489ab0fcc20",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6764/0d13824315b0491d44e9c6eb5db06489ab0fcc20.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6765",
+      "commitId": "fd9cc97d4dfe2a2fbce2c0f1704d7a27ce7cbc44",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6765/fd9cc97d4dfe2a2fbce2c0f1704d7a27ce7cbc44.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6766",
+      "commitId": "0d13824315b0491d44e9c6eb5db06489ab0fcc20",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6766/0d13824315b0491d44e9c6eb5db06489ab0fcc20.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6772",
+      "commitId": "29a2baf3195256bab6a0a4a2d07b7f2efa46b614",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6772/29a2baf3195256bab6a0a4a2d07b7f2efa46b614.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6772",
+      "commitId": "a5a18239096f6faee80f15f3fff39c3311898484",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6772/a5a18239096f6faee80f15f3fff39c3311898484.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6773",
+      "commitId": "026745ef046e646b8d04f4f57d8320042f6b29b0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6773/026745ef046e646b8d04f4f57d8320042f6b29b0.tgz"
+    },
+    {
+      "cveId": "CVE-2016-6773",
+      "commitId": "6676aeb4195e7c7379915c0972f3d209410f0641",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-6773/6676aeb4195e7c7379915c0972f3d209410f0641.tgz"
+    },
+    {
+      "cveId": "CVE-2016-7056",
+      "commitId": "13179a8e75fee98740b5ce728752aa7294b3e32d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-7056/13179a8e75fee98740b5ce728752aa7294b3e32d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0391",
+      "commitId": "14bc1678a80af5be7401cf750ab762ae8c75cc5a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0391/14bc1678a80af5be7401cf750ab762ae8c75cc5a.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0538",
+      "commitId": "494561291a503840f385fbcd11d9bc5f4dc502b8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0538/494561291a503840f385fbcd11d9bc5f4dc502b8.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0539",
+      "commitId": "1ab5ce7e42feccd49e49752e6f58f9097ac5d254",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0539/1ab5ce7e42feccd49e49752e6f58f9097ac5d254.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0540",
+      "commitId": "a92b39ff0c47d488b81fecd62ba85e48d386aa68",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0540/a92b39ff0c47d488b81fecd62ba85e48d386aa68.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0541",
+      "commitId": "56d153259cc3e16a6a0014199a2317dde333c978",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0541/56d153259cc3e16a6a0014199a2317dde333c978.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0542",
+      "commitId": "33ef7de9ddc8ea7eb9cbc440d1cf89957a0c267b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0542/33ef7de9ddc8ea7eb9cbc440d1cf89957a0c267b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0543",
+      "commitId": "f634481e940421020e52f511c1fb34aac1db4b2f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0543/f634481e940421020e52f511c1fb34aac1db4b2f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0548",
+      "commitId": "318e3505ac2436c62ec19fd27ebe9f8e7d174544",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0548/318e3505ac2436c62ec19fd27ebe9f8e7d174544.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0549",
+      "commitId": "37345554fea84afd446d6d8fbb87feea5a0dde3f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0549/37345554fea84afd446d6d8fbb87feea5a0dde3f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0550",
+      "commitId": "7950bf47b6944546a0aff11a7184947de9591b51",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0550/7950bf47b6944546a0aff11a7184947de9591b51.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0551",
+      "commitId": "494561291a503840f385fbcd11d9bc5f4dc502b8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0551/494561291a503840f385fbcd11d9bc5f4dc502b8.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0551",
+      "commitId": "8b5fd8f24eba5dd19ab2f80ea11a9125aa882ae2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0551/8b5fd8f24eba5dd19ab2f80ea11a9125aa882ae2.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0552",
+      "commitId": "9a00f562a612d56e7b2b989d168647db900ba6cf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0552/9a00f562a612d56e7b2b989d168647db900ba6cf.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0553",
+      "commitId": "f83d9c1c67b6be69a96995e384f50b572b667df0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0553/f83d9c1c67b6be69a96995e384f50b572b667df0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0555",
+      "commitId": "0b23c81c3dd9ec38f7e6806a3955fed1925541a0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0555/0b23c81c3dd9ec38f7e6806a3955fed1925541a0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0556",
+      "commitId": "f301cff2c1ddd880d9a2c77b22602a137519867b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0556/f301cff2c1ddd880d9a2c77b22602a137519867b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0557",
+      "commitId": "227c1f829127405e21dab1664393050c652ef71e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0557/227c1f829127405e21dab1664393050c652ef71e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0559",
+      "commitId": "16882f721279a82a1c860ac689ce570b16fe26a0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0559/16882f721279a82a1c860ac689ce570b16fe26a0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0587",
+      "commitId": "a86eb798d077b9b25c8f8c77e3c02c2f287c1ce7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0587/a86eb798d077b9b25c8f8c77e3c02c2f287c1ce7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0588",
+      "commitId": "6f1d990ce0f116a205f467d9eb2082795e33872b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0588/6f1d990ce0f116a205f467d9eb2082795e33872b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0589",
+      "commitId": "bcfc7124f6ef9f1ec128fb2e90de774a5b33d199",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0589/bcfc7124f6ef9f1ec128fb2e90de774a5b33d199.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0590",
+      "commitId": "45c97f878bee15cd97262fe7f57ecea71990fed7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0590/45c97f878bee15cd97262fe7f57ecea71990fed7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0591",
+      "commitId": "5c3fd5d93a268abb20ff22f26009535b40db3c7d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0591/5c3fd5d93a268abb20ff22f26009535b40db3c7d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0594",
+      "commitId": "594bf934384920618d2b6ce0bcda1f60144cb3eb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0594/594bf934384920618d2b6ce0bcda1f60144cb3eb.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0597",
+      "commitId": "a9188f89179a7edd301abaf37d644adf5d647a04",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0597/a9188f89179a7edd301abaf37d644adf5d647a04.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0599",
+      "commitId": "a1424724a00d62ac5efa0e27953eed66850d662f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0599/a1424724a00d62ac5efa0e27953eed66850d662f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0600",
+      "commitId": "961e5ac5788b52304e64b9a509781beaf5201fb0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0600/961e5ac5788b52304e64b9a509781beaf5201fb0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0602",
+      "commitId": "a4875a49404c544134df37022ae587a4a3321647",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0602/a4875a49404c544134df37022ae587a4a3321647.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0603",
+      "commitId": "36b04932bb93cc3269279282686b439a17a89920",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0603/36b04932bb93cc3269279282686b439a17a89920.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0635",
+      "commitId": "523f6b49c1a2289161f40cf9fe80b92e592e9441",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0635/523f6b49c1a2289161f40cf9fe80b92e592e9441.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0637",
+      "commitId": "ebaa71da6362c497310377df509651974401d258",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0637/ebaa71da6362c497310377df509651974401d258.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0641",
+      "commitId": "698796fc930baecf5c3fdebef17e73d5d9a58bcb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0641/698796fc930baecf5c3fdebef17e73d5d9a58bcb.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0642",
+      "commitId": "913d9e8d93d6b81bb8eac3fc2c1426651f5b259d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0642/913d9e8d93d6b81bb8eac3fc2c1426651f5b259d.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0646",
+      "commitId": "2bcdf8ec7db12c5651c004601901f1fc25153f2c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0646/2bcdf8ec7db12c5651c004601901f1fc25153f2c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0647",
+      "commitId": "3d6a43155c702bce0e7e2a93a67247b5ce3946a5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0647/3d6a43155c702bce0e7e2a93a67247b5ce3946a5.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0663",
+      "commitId": "521b88fbb6d18312923f0df653d045384b500ffc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0663/521b88fbb6d18312923f0df653d045384b500ffc.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0665",
+      "commitId": "75edf04bf18d37df28fb58e1d75331ed4bcae230",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0665/75edf04bf18d37df28fb58e1d75331ed4bcae230.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0666",
+      "commitId": "5fc2df253c089b53b3e235a3f237f96a98b53977",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0666/5fc2df253c089b53b3e235a3f237f96a98b53977.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0667",
+      "commitId": "5ac63e4547feaa7cb51ac81896250f47f367ffba",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0667/5ac63e4547feaa7cb51ac81896250f47f367ffba.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0670",
+      "commitId": "e102faee8b2f87c28616e7f5453f9a11eea9b122",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0670/e102faee8b2f87c28616e7f5453f9a11eea9b122.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0672",
+      "commitId": "c4087ff5486d36a690c681affb668164ec0dd697",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0672/c4087ff5486d36a690c681affb668164ec0dd697.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0673",
+      "commitId": "381ccb2b7f2ba42490bafab6aa7a63a8212b396f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0673/381ccb2b7f2ba42490bafab6aa7a63a8212b396f.tgz"
+    },
+    {
+      "cveId": "CVE-2016-2109",
+      "commitId": "ccb2efe8d3fccb4321e85048d67c8528e03d4652",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2016-2109/ccb2efe8d3fccb4321e85048d67c8528e03d4652.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0546",
+      "commitId": "45b202513ba7440beaefbf9928f73fb6683dcfbd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0546/45b202513ba7440beaefbf9928f73fb6683dcfbd.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0598",
+      "commitId": "4e110ab20bb91e945a17c6e166e14e2da9608f08",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0598/4e110ab20bb91e945a17c6e166e14e2da9608f08.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0598",
+      "commitId": "d42e1204d5dddb78ec9d20d125951b59a8344f40",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0598/d42e1204d5dddb78ec9d20d125951b59a8344f40.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0674",
+      "commitId": "1603112cccbab3dff66a7eb1b82e858c1749f34b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0674/1603112cccbab3dff66a7eb1b82e858c1749f34b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0695",
+      "commitId": "cc5683451dd9be1491b54f215e9934d49f11cf70",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0695/cc5683451dd9be1491b54f215e9934d49f11cf70.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0675",
+      "commitId": "4395fc2288e3f692765c73fce416e831fdaa5463",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0675/4395fc2288e3f692765c73fce416e831fdaa5463.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0675",
+      "commitId": "726108468dcfdabb833b8d55333de53cf6350aaa",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0675/726108468dcfdabb833b8d55333de53cf6350aaa.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0676",
+      "commitId": "8e415eabb5d2abd2f2bd40a675339d967f81521b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0676/8e415eabb5d2abd2f2bd40a675339d967f81521b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0677",
+      "commitId": "b8fee6a6d0a91fb5ddca8f54b0c891e25c1b65ae",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0677/b8fee6a6d0a91fb5ddca8f54b0c891e25c1b65ae.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0678",
+      "commitId": "64bc0b8c0c495c487604d483aa57978db7f634be",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0678/64bc0b8c0c495c487604d483aa57978db7f634be.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0679",
+      "commitId": "91cb6b1745f3e9d341cf6decc2b916cb1e4eea77",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0679/91cb6b1745f3e9d341cf6decc2b916cb1e4eea77.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0680",
+      "commitId": "989df73b34a7a698731cab3ee1e4a831a862fbe1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0680/989df73b34a7a698731cab3ee1e4a831a862fbe1.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0684",
+      "commitId": "c7c9271740c29c02e7926265ed53a44b8113dbfb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0684/c7c9271740c29c02e7926265ed53a44b8113dbfb.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0685",
+      "commitId": "680b75dabb90c8c2e22886826554ad1bc99b36f1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0685/680b75dabb90c8c2e22886826554ad1bc99b36f1.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0686",
+      "commitId": "b8d7e85c10cc22e1a5d81ec3d8a2e5bdd6102852",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0686/b8d7e85c10cc22e1a5d81ec3d8a2e5bdd6102852.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0687",
+      "commitId": "17b46beeae7421f76d894f14696ba4db9023287c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0687/17b46beeae7421f76d894f14696ba4db9023287c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0688",
+      "commitId": "62c07468bc26d1f9487c5298bb2a2f3740db13b1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0688/62c07468bc26d1f9487c5298bb2a2f3740db13b1.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0689",
+      "commitId": "2210ff5600d3f965352a3074adff8fedddcf347e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0689/2210ff5600d3f965352a3074adff8fedddcf347e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0690",
+      "commitId": "1f418f10f4319fc829360b7efee7fca4b3880867",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0690/1f418f10f4319fc829360b7efee7fca4b3880867.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0691",
+      "commitId": "c70264282305351abbec9b967333db4d896583b9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0691/c70264282305351abbec9b967333db4d896583b9.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0692",
+      "commitId": "6db482687caf12ea7d2d07d655b17413bc937c73",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0692/6db482687caf12ea7d2d07d655b17413bc937c73.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0693",
+      "commitId": "632ff754836d22415136cb3f97fe4622c862ce81",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0693/632ff754836d22415136cb3f97fe4622c862ce81.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0694",
+      "commitId": "47750a5f1b19695ac64d6f7aa6e7e0918d3c8977",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0694/47750a5f1b19695ac64d6f7aa6e7e0918d3c8977.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0696",
+      "commitId": "0d0ddb7cd7618ede5301803c526f066b95ce5089",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0696/0d0ddb7cd7618ede5301803c526f066b95ce5089.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0697",
+      "commitId": "c5eaf3ae70d5ea3a7d390294002e4cf9859b3578",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0697/c5eaf3ae70d5ea3a7d390294002e4cf9859b3578.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0698",
+      "commitId": "1618337cac09284fddb5bb14b5e0cfe2946d3431",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0698/1618337cac09284fddb5bb14b5e0cfe2946d3431.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0699",
+      "commitId": "989b2afc3ebb1bbb4c962e2aff1fd9b3149f83f1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0699/989b2afc3ebb1bbb4c962e2aff1fd9b3149f83f1.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0712",
+      "commitId": "e8beda2579d277fb6b27f1792c4ed45c136ee15a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0712/e8beda2579d277fb6b27f1792c4ed45c136ee15a.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0713",
+      "commitId": "fa6053736808e999483ca0a21fbe16a3075cf2c8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0713/fa6053736808e999483ca0a21fbe16a3075cf2c8.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0714",
+      "commitId": "26557d832fde349721500b47d51467c046794ae9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0714/26557d832fde349721500b47d51467c046794ae9.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0715",
+      "commitId": "676c26e6a2ab3b75ab6e8fdd984547219fc1ceb5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0715/676c26e6a2ab3b75ab6e8fdd984547219fc1ceb5.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0716",
+      "commitId": "d5f52646974c29e6b7d51230b8ddae0c0a9430dc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0716/d5f52646974c29e6b7d51230b8ddae0c0a9430dc.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0718",
+      "commitId": "327496c59fb280273e23353061980dd72b07de1f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0718/327496c59fb280273e23353061980dd72b07de1f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0719",
+      "commitId": "f0afcf1943a1844e2a82ac3c5ab4d49427102cd1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0719/f0afcf1943a1844e2a82ac3c5ab4d49427102cd1.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0720",
+      "commitId": "84732aaa4255955b8fefc39efee9b369181a6861",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0720/84732aaa4255955b8fefc39efee9b369181a6861.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0721",
+      "commitId": "08a0d1ab6277770babbedab6ce7e7e2481869ad0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0721/08a0d1ab6277770babbedab6ce7e7e2481869ad0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0722",
+      "commitId": "26557d832fde349721500b47d51467c046794ae9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0722/26557d832fde349721500b47d51467c046794ae9.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0723",
+      "commitId": "fe5ade4c86e2f5a86eab6c6593981d02f4c1710b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0723/fe5ade4c86e2f5a86eab6c6593981d02f4c1710b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0724",
+      "commitId": "08a0d1ab6277770babbedab6ce7e7e2481869ad0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0724/08a0d1ab6277770babbedab6ce7e7e2481869ad0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0725",
+      "commitId": "59372f5412036ce87285e91fd2dd53e37ff990e4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0725/59372f5412036ce87285e91fd2dd53e37ff990e4.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0726",
+      "commitId": "8995285da14e1303ae7357bf8162cbec13e65b68",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0726/8995285da14e1303ae7357bf8162cbec13e65b68.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0727",
+      "commitId": "39dfabd43cbe57f92b771c0110a5c2d976b6c44f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0727/39dfabd43cbe57f92b771c0110a5c2d976b6c44f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0728",
+      "commitId": "314a0d038e6ae24bef80fff0b542965aed78ae96",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0728/314a0d038e6ae24bef80fff0b542965aed78ae96.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0729",
+      "commitId": "96974782cd914120272a026ebc263dd38098f392",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0729/96974782cd914120272a026ebc263dd38098f392.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0730",
+      "commitId": "efd28f6c36d40d0a8dd92f344e1d9a992b315c36",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0730/efd28f6c36d40d0a8dd92f344e1d9a992b315c36.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0731",
+      "commitId": "c10183960909f074a265c134cd4087785e7d26bf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0731/c10183960909f074a265c134cd4087785e7d26bf.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0732",
+      "commitId": "bf153fbedc2333b14e90826d22f08d10e832db29",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0732/bf153fbedc2333b14e90826d22f08d10e832db29.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0734",
+      "commitId": "f6650b34ef27d6da8cdccd42e0f76fe756a9375b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0734/f6650b34ef27d6da8cdccd42e0f76fe756a9375b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0735",
+      "commitId": "490bed0e7dce49296d50bb519348c6a87de8a8ef",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0735/490bed0e7dce49296d50bb519348c6a87de8a8ef.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0735",
+      "commitId": "fe5ade4c86e2f5a86eab6c6593981d02f4c1710b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0735/fe5ade4c86e2f5a86eab6c6593981d02f4c1710b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0736",
+      "commitId": "dfbbb54f14f83d45ad06a91aa76ed8260eb795d5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0736/dfbbb54f14f83d45ad06a91aa76ed8260eb795d5.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0737",
+      "commitId": "77e075ddd6d8cae33832add5225ee8f8c77908f0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0737/77e075ddd6d8cae33832add5225ee8f8c77908f0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0738",
+      "commitId": "1d919d737b374b98b900c08c9d0c82fe250feb08",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0738/1d919d737b374b98b900c08c9d0c82fe250feb08.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0739",
+      "commitId": "e6e353a231f746743866d360b88ef8ced367bcb1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0739/e6e353a231f746743866d360b88ef8ced367bcb1.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0745",
+      "commitId": "b6ec3bbba36a3816a936f1e31984529b875b3618",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0745/b6ec3bbba36a3816a936f1e31984529b875b3618.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0805",
+      "commitId": "77e075ddd6d8cae33832add5225ee8f8c77908f0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-0805/77e075ddd6d8cae33832add5225ee8f8c77908f0.tgz"
+    },
+    {
+      "cveId": "CVE-2017-5056",
+      "commitId": "3f571b1bb85cf56903f06bab3a820182115c5541",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-5056/3f571b1bb85cf56903f06bab3a820182115c5541.tgz"
+    },
+    {
+      "cveId": "CVE-2017-7375",
+      "commitId": "308396a55280f69ad4112d4f9892f4cbeff042aa",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-7375/308396a55280f69ad4112d4f9892f4cbeff042aa.tgz"
+    },
+    {
+      "cveId": "CVE-2017-7376",
+      "commitId": "51e0cb2e5ec18eaf6fb331bc573ff27b743898f4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-7.1.2_r28/CVE-2017-7376/51e0cb2e5ec18eaf6fb331bc573ff27b743898f4.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0781",
+      "commitId": "1e0bb31f6a809b49014483dc118b9d9ad31ade68",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0781/1e0bb31f6a809b49014483dc118b9d9ad31ade68.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0781",
+      "commitId": "c513a8ff5cfdcc62cc14da354beb1dd22e56be0e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0781/c513a8ff5cfdcc62cc14da354beb1dd22e56be0e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0782",
+      "commitId": "1b08775917413f1674882130a948add1ae44cc91",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0782/1b08775917413f1674882130a948add1ae44cc91.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0782",
+      "commitId": "4e47f3db62bab524946c46efe04ed6a2b896b150",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0782/4e47f3db62bab524946c46efe04ed6a2b896b150.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0782",
+      "commitId": "c568fa9088ded964e0ac99db236e612de5d82177",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0782/c568fa9088ded964e0ac99db236e612de5d82177.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0783",
+      "commitId": "1e77fefc8b9c832239e1b32c6a6880376065e24e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0783/1e77fefc8b9c832239e1b32c6a6880376065e24e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0785",
+      "commitId": "226ea26684d4cd609a5b456d3d2cc762453c2d75",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0785/226ea26684d4cd609a5b456d3d2cc762453c2d75.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0809",
+      "commitId": "552a3b5df2a6876d10da20f72e4cc0d44ac2c790",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0809/552a3b5df2a6876d10da20f72e4cc0d44ac2c790.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0810",
+      "commitId": "7737780815fe523ad7b0e49456eb75d27a30818a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0810/7737780815fe523ad7b0e49456eb75d27a30818a.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0811",
+      "commitId": "25c0ffbe6a181b4a373c3c9b421ea449d457e6ed",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-0811/25c0ffbe6a181b4a373c3c9b421ea449d457e6ed.tgz"
+    },
+    {
+      "cveId": "CVE-2017-14496",
+      "commitId": "68a974de72b5091ce608815a349daaeb05cdeab5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r35/CVE-2017-14496/68a974de72b5091ce608815a349daaeb05cdeab5.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0245",
+      "commitId": "b875a5fe0db2e2d4bf44746bb8ca4dc1e959925e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r49/CVE-2020-0245/b875a5fe0db2e2d4bf44746bb8ca4dc1e959925e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13230",
+      "commitId": "b0e1239a611617d598ebc8a93c2edae77430dd39",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r10/CVE-2017-13230/b0e1239a611617d598ebc8a93c2edae77430dd39.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13228",
+      "commitId": "04b68a0a51729b655bcd0f5ae5ec20645eeda946",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r14/CVE-2017-13228/04b68a0a51729b655bcd0f5ae5ec20645eeda946.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13230",
+      "commitId": "68e532d83a1b98f6b5e297d71b547ed93a68dfe3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r14/CVE-2017-13230/68e532d83a1b98f6b5e297d71b547ed93a68dfe3.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13233",
+      "commitId": "a22314db4e0cfe11ef3e50dac6a13d52f7a595b3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r14/CVE-2017-13233/a22314db4e0cfe11ef3e50dac6a13d52f7a595b3.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13234",
+      "commitId": "33f45caed3b60bf81790e9b76cf82c8e8d6ed902",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r14/CVE-2017-13234/33f45caed3b60bf81790e9b76cf82c8e8d6ed902.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13236",
+      "commitId": "b49160023ee8f73ce0ac97f9f4604a34ebdecf76",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r14/CVE-2017-13236/b49160023ee8f73ce0ac97f9f4604a34ebdecf76.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13250",
+      "commitId": "a7f41c5d3425dbd89da38a4aa8398cf7351406e8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r15/CVE-2017-13250/a7f41c5d3425dbd89da38a4aa8398cf7351406e8.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13276",
+      "commitId": "1b9cbed05b4fd376677d67b6442aa30256834ed4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r19/CVE-2017-13276/1b9cbed05b4fd376677d67b6442aa30256834ed4.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13277",
+      "commitId": "b7d4d588e8fcbe254f7a3d9a247af4b91ccc7285",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r19/CVE-2017-13277/b7d4d588e8fcbe254f7a3d9a247af4b91ccc7285.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13232",
+      "commitId": "6a5d1fc7cbccd85054e56542a633149622effa67",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r22/CVE-2017-13232/6a5d1fc7cbccd85054e56542a633149622effa67.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13278",
+      "commitId": "8a54af87b632c03ff2ae15a4a088801bb39fdae7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r22/CVE-2017-13278/8a54af87b632c03ff2ae15a4a088801bb39fdae7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13313",
+      "commitId": "4b3b618144050d80dbaa0228797b021d5df5e919",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r26/CVE-2017-13313/4b3b618144050d80dbaa0228797b021d5df5e919.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13257",
+      "commitId": "08e68337a9eb45818d5a770570c8b1d15a14d904",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13257/08e68337a9eb45818d5a770570c8b1d15a14d904.tgz"
+    },
+    {
+      "cveId": "CVE-2016-5180",
+      "commitId": "f4baf84f285bfbdebb89b2fef8a955720f00c677",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2016-5180/f4baf84f285bfbdebb89b2fef8a955720f00c677.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0855",
+      "commitId": "d7d6df849cec9d0a9c1fd0d9957a1b8edef361b7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-0855/d7d6df849cec9d0a9c1fd0d9957a1b8edef361b7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13178",
+      "commitId": "646a18fef28d19ba5beb6a2e1c00ac4c2663a10b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13178/646a18fef28d19ba5beb6a2e1c00ac4c2663a10b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13179",
+      "commitId": "47d4b33b504e14e98420943f771a9aecd6d09516",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13179/47d4b33b504e14e98420943f771a9aecd6d09516.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13180",
+      "commitId": "cf1e36f93fc8776e3a8109149424babeee7f8382",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13180/cf1e36f93fc8776e3a8109149424babeee7f8382.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13182",
+      "commitId": "f1652e1b9f1d2840c79b6bf784d1befe40f4799e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13182/f1652e1b9f1d2840c79b6bf784d1befe40f4799e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13184",
+      "commitId": "16392a119661fd1da750d4d4e8e03442578bc543",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13184/16392a119661fd1da750d4d4e8e03442578bc543.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13208",
+      "commitId": "b71335264a7c3629f80b7bf1f87375c75c42d868",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13208/b71335264a7c3629f80b7bf1f87375c75c42d868.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13209",
+      "commitId": "8539fc8ac94d5c92ef9df33675844ab294f68d61",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13209/8539fc8ac94d5c92ef9df33675844ab294f68d61.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13209",
+      "commitId": "e1b4a889e8b84f5c13b76333d4de90dbe102a0de",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13209/e1b4a889e8b84f5c13b76333d4de90dbe102a0de.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13210",
+      "commitId": "e770e378dc8e2320679272234285456ca2244a62",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13210/e770e378dc8e2320679272234285456ca2244a62.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13248",
+      "commitId": "0ad7e37ac954dc3ae8b739439a8d9cf645a46a10",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13248/0ad7e37ac954dc3ae8b739439a8d9cf645a46a10.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13249",
+      "commitId": "9449ef411f32e2948190f9451726eb558996e8d3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13249/9449ef411f32e2948190f9451726eb558996e8d3.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13251",
+      "commitId": "5687dbe62b2785d1b037336eb07e96ab81bddaea",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13251/5687dbe62b2785d1b037336eb07e96ab81bddaea.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13252",
+      "commitId": "86141f9df21cb8ac91f9cc9804f5b75d26d98996",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13252/86141f9df21cb8ac91f9cc9804f5b75d26d98996.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13253",
+      "commitId": "871412cfa05770cfd8be0a130b68386775445057",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13253/871412cfa05770cfd8be0a130b68386775445057.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13255",
+      "commitId": "f0edf6571d2d58e66ee0b100ebe49c585d31489f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13255/f0edf6571d2d58e66ee0b100ebe49c585d31489f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13256",
+      "commitId": "f0edf6571d2d58e66ee0b100ebe49c585d31489f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13256/f0edf6571d2d58e66ee0b100ebe49c585d31489f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13258",
+      "commitId": "a50e70468c0a8d207e416e273d05a08635bdd45f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13258/a50e70468c0a8d207e416e273d05a08635bdd45f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13259",
+      "commitId": "0627e76edefd948dc3efe11564d7e53d56aac80c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13259/0627e76edefd948dc3efe11564d7e53d56aac80c.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13259",
+      "commitId": "1313abd1761c39e8619a77964f8c42e3e72b5fee",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13259/1313abd1761c39e8619a77964f8c42e3e72b5fee.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13262",
+      "commitId": "a50e70468c0a8d207e416e273d05a08635bdd45f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13262/a50e70468c0a8d207e416e273d05a08635bdd45f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13266",
+      "commitId": "2f2043f18463a5c963c138d24346870b1066e7a6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13266/2f2043f18463a5c963c138d24346870b1066e7a6.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13267",
+      "commitId": "57dc5964428697a104988f0aa0d1fd1d88fec939",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13267/57dc5964428697a104988f0aa0d1fd1d88fec939.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13272",
+      "commitId": "935ee775421e0c8a14f26669d9ab99f110ceb7d5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13272/935ee775421e0c8a14f26669d9ab99f110ceb7d5.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13272",
+      "commitId": "ec16f7d8c7e359a68ffe6b76e88add2210bf2cbd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13272/ec16f7d8c7e359a68ffe6b76e88add2210bf2cbd.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13275",
+      "commitId": "3056f04d293bd16e56cc72e10edd060b8c1ca0f5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13275/3056f04d293bd16e56cc72e10edd060b8c1ca0f5.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13279",
+      "commitId": "d32af5db10f018219e0379f333c7f0452a4f7a31",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13279/d32af5db10f018219e0379f333c7f0452a4f7a31.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13281",
+      "commitId": "6f3ddf3f5cf2b3eb52fb0adabd814a45cff07221",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13281/6f3ddf3f5cf2b3eb52fb0adabd814a45cff07221.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13282",
+      "commitId": "6ecbbc093f4383e90cbbf681cd55da1303a8ef94",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13282/6ecbbc093f4383e90cbbf681cd55da1303a8ef94.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13283",
+      "commitId": "e4ec79be45304f819c88c8dbf826d58b68f6c8f8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13283/e4ec79be45304f819c88c8dbf826d58b68f6c8f8.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13284",
+      "commitId": "7f8bfcc35285ca6e93a4436699bc95c13b920caf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13284/7f8bfcc35285ca6e93a4436699bc95c13b920caf.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13285",
+      "commitId": "cee78199bbfae81f54a40671db47096f5f32cdad",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13285/cee78199bbfae81f54a40671db47096f5f32cdad.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13290",
+      "commitId": "72b1cebaa9cc7ace841d887f0d4a4bf6daccde6e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13290/72b1cebaa9cc7ace841d887f0d4a4bf6daccde6e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13291",
+      "commitId": "1696f97011f5f30f1a630f3b24442ca64232b1f5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2017-13291/1696f97011f5f30f1a630f3b24442ca64232b1f5.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9341",
+      "commitId": "69ac35d37c0fcf43ac3dac6c99dbec5ecb258c41",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9341/69ac35d37c0fcf43ac3dac6c99dbec5ecb258c41.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9345",
+      "commitId": "d6bd6091686dd7ea3b410fb8dce3794429066453",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9345/d6bd6091686dd7ea3b410fb8dce3794429066453.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9346",
+      "commitId": "d6bd6091686dd7ea3b410fb8dce3794429066453",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9346/d6bd6091686dd7ea3b410fb8dce3794429066453.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9347",
+      "commitId": "b237378c682f84e020f2c612c215967a7e5cd30a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9347/b237378c682f84e020f2c612c215967a7e5cd30a.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9348",
+      "commitId": "b237378c682f84e020f2c612c215967a7e5cd30a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9348/b237378c682f84e020f2c612c215967a7e5cd30a.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9355",
+      "commitId": "99a263a7f04c5c6f101388007baa18cf1e8c30bf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9355/99a263a7f04c5c6f101388007baa18cf1e8c30bf.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9356",
+      "commitId": "d7d4d5686b2e3c37c7bf10a6a2adff1c95251a13",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9356/d7d4d5686b2e3c37c7bf10a6a2adff1c95251a13.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9357",
+      "commitId": "9164ee1aaf3609b4771d39302e3af649f44c9e66",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9357/9164ee1aaf3609b4771d39302e3af649f44c9e66.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9358",
+      "commitId": "0d7c2f5a14d1055f3b4f69035451c66bf8f1b08e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9358/0d7c2f5a14d1055f3b4f69035451c66bf8f1b08e.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9359",
+      "commitId": "b66fc16410ff96e9119f8eb282e67960e79075c8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9359/b66fc16410ff96e9119f8eb282e67960e79075c8.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9361",
+      "commitId": "b66fc16410ff96e9119f8eb282e67960e79075c8",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r32/CVE-2018-9361/b66fc16410ff96e9119f8eb282e67960e79075c8.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9365",
+      "commitId": "ae94a4c333417a1829030c4d87a58ab7f1401308",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9365/ae94a4c333417a1829030c4d87a58ab7f1401308.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9410",
+      "commitId": "62e88b9f3ac35e1e69d79c7a43c6f9ddcd5980a3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9410/62e88b9f3ac35e1e69d79c7a43c6f9ddcd5980a3.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9411",
+      "commitId": "e1302cfda34be9dd0a4aeae6bfa9561b44536758",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9411/e1302cfda34be9dd0a4aeae6bfa9561b44536758.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9412",
+      "commitId": "fa12c0fcdc6607b746177ccad4f7099098b4849a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9412/fa12c0fcdc6607b746177ccad4f7099098b4849a.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9419",
+      "commitId": "f1c2c86080bcd7b3142ff821441696fc99c2bc9a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9419/f1c2c86080bcd7b3142ff821441696fc99c2bc9a.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9420",
+      "commitId": "12df4b05fd918d836636e21f783df7ad9d5e17a3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9420/12df4b05fd918d836636e21f783df7ad9d5e17a3.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9421",
+      "commitId": "ff2171f2460e3a6d3443ab957732b8b7d4831d40",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9421/ff2171f2460e3a6d3443ab957732b8b7d4831d40.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9424",
+      "commitId": "d3860e51b83296ae1d2921d8109210283573862a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r41/CVE-2018-9424/d3860e51b83296ae1d2921d8109210283573862a.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0873",
+      "commitId": "d1a1d7b88203a240488633e3a9b4cde231c3c4e3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-0873/d1a1d7b88203a240488633e3a9b4cde231c3c4e3.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0874",
+      "commitId": "252628cffba8702e36b98c193bcd2fe67d8237ee",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-0874/252628cffba8702e36b98c193bcd2fe67d8237ee.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0878",
+      "commitId": "a963ba6ac200ee4222ba4faa7137a69144ba668a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-0878/a963ba6ac200ee4222ba4faa7137a69144ba668a.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13148",
+      "commitId": "60c4d957db5e18da39ec943f15171547b53305d6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-13148/60c4d957db5e18da39ec943f15171547b53305d6.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13192",
+      "commitId": "52ca619511acbd542d843df1f92f858ce13048a5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-13192/52ca619511acbd542d843df1f92f858ce13048a5.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13193",
+      "commitId": "b3f31e493ef6fa886989198da9787807635eaae2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-13193/b3f31e493ef6fa886989198da9787807635eaae2.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13195",
+      "commitId": "066e3b1f9c954d95045bc9d33d2cdc9df419784f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-13195/066e3b1f9c954d95045bc9d33d2cdc9df419784f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13197",
+      "commitId": "0a714d3a14d256c6a5675d6fbd975ca26e9bc471",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2017-13197/0a714d3a14d256c6a5675d6fbd975ca26e9bc471.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9427",
+      "commitId": "08d392085c095e227c029f64644bc08ef5a544de",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9427/08d392085c095e227c029f64644bc08ef5a544de.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9427",
+      "commitId": "c9909e5a980f941a5b72477755e09fb4dc57c478",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9427/c9909e5a980f941a5b72477755e09fb4dc57c478.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9436",
+      "commitId": "289a49814aef7f0f0bb98aac8246080abdfeac01",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9436/289a49814aef7f0f0bb98aac8246080abdfeac01.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9445",
+      "commitId": "940a1ff70cfc5f2e4de83da9ad84cd9734faadf6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9445/940a1ff70cfc5f2e4de83da9ad84cd9734faadf6.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9445",
+      "commitId": "9a2d95e4ed9ec5ab76998654b1c2fba9cc139e50",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9445/9a2d95e4ed9ec5ab76998654b1c2fba9cc139e50.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9446",
+      "commitId": "49acada519d088d8edf37e48640c76ea5c70e010",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9446/49acada519d088d8edf37e48640c76ea5c70e010.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9448",
+      "commitId": "13294c70a66347c9e5d05b9f92f8ceb6fe38d7f6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9448/13294c70a66347c9e5d05b9f92f8ceb6fe38d7f6.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9448",
+      "commitId": "f1f1c3e00f8d1baad0215b057e6d894517eeaddb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9448/f1f1c3e00f8d1baad0215b057e6d894517eeaddb.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9450",
+      "commitId": "bc259b4926a6f9b33b9ee2c917cd83a55f360cbf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9450/bc259b4926a6f9b33b9ee2c917cd83a55f360cbf.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9454",
+      "commitId": "289a49814aef7f0f0bb98aac8246080abdfeac01",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9454/289a49814aef7f0f0bb98aac8246080abdfeac01.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9455",
+      "commitId": "d56c7ec9e2ecfa8a8ceeb82f37187e5ea21f2101",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9455/d56c7ec9e2ecfa8a8ceeb82f37187e5ea21f2101.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9473",
+      "commitId": "9f0fb67540d2259e4930d9bd5f1a1a6fb95af862",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r42/CVE-2018-9473/9f0fb67540d2259e4930d9bd5f1a1a6fb95af862.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9508",
+      "commitId": "e8bbf5b0889790cf8616f4004867f0ff656f0551",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r47/CVE-2018-9508/e8bbf5b0889790cf8616f4004867f0ff656f0551.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9498",
+      "commitId": "77c955200ddd1761d6ed7a6c1578349fedbb55e4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r48/CVE-2018-9498/77c955200ddd1761d6ed7a6c1578349fedbb55e4.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9456",
+      "commitId": "04be7ae5771ee1edc6cbe2af26998755d7be5a68",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9456/04be7ae5771ee1edc6cbe2af26998755d7be5a68.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9476",
+      "commitId": "dd28d8ddf2985d654781770c691c60b45d7f32b4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9476/dd28d8ddf2985d654781770c691c60b45d7f32b4.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9538",
+      "commitId": "0a7d252adb774338c2c69a17651aceca3aec1b23",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9538/0a7d252adb774338c2c69a17651aceca3aec1b23.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9547",
+      "commitId": "e6eb42cb2e57747e52e488d54da314bc6eabb546",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9547/e6eb42cb2e57747e52e488d54da314bc6eabb546.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9549",
+      "commitId": "6f6d220a3255e7cbd31bcd1220ffb83af0a2779a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9549/6f6d220a3255e7cbd31bcd1220ffb83af0a2779a.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9552",
+      "commitId": "d15da6f960dd2d5b77faced4e799f8bf53785d9c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9552/d15da6f960dd2d5b77faced4e799f8bf53785d9c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9553",
+      "commitId": "c4c92b2c6ed72a78ea430c3cdce564ec11866a24",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9553/c4c92b2c6ed72a78ea430c3cdce564ec11866a24.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9555",
+      "commitId": "02fc52878d8dba16b860fbdf415b6e4425922b2c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9555/02fc52878d8dba16b860fbdf415b6e4425922b2c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9558",
+      "commitId": "ce7fcb95d5111ad8c554e7ec8ff02f9b40196cdc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9558/ce7fcb95d5111ad8c554e7ec8ff02f9b40196cdc.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9559",
+      "commitId": "c2e37da22aadcdb4a5b7f61a61f824ab8e9b8af9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9559/c2e37da22aadcdb4a5b7f61a61f824ab8e9b8af9.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9566",
+      "commitId": "314336a22d781f54ed7394645a50f74d6743267d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r52/CVE-2018-9566/314336a22d781f54ed7394645a50f74d6743267d.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9554",
+      "commitId": "16f9b39c69626093ae9225b458739707c9a3b4e7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r53/CVE-2018-9554/16f9b39c69626093ae9225b458739707c9a3b4e7.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2027",
+      "commitId": "7431d3c2a71a315f47c9e86e9ad691e9278b2114",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r63/CVE-2019-2027/7431d3c2a71a315f47c9e86e9ad691e9278b2114.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2031",
+      "commitId": "efc7bda97917f1afb7ab1fc6b3fe67a20cee6693",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r63/CVE-2019-2031/efc7bda97917f1afb7ab1fc6b3fe67a20cee6693.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0100",
+      "commitId": "cf4c5675c2c7ab822ed1ff12350c78575153f3cb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.1.0_r76/CVE-2020-0100/cf4c5675c2c7ab822ed1ff12350c78575153f3cb.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9511",
+      "commitId": "931418b16c7197ca2df34c2a5609e49791125abe",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r17/CVE-2018-9511/931418b16c7197ca2df34c2a5609e49791125abe.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9550",
+      "commitId": "ce97e7d55e1f69683b5bc8f19cc8da8c85bc2cd4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r19/CVE-2018-9550/ce97e7d55e1f69683b5bc8f19cc8da8c85bc2cd4.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9551",
+      "commitId": "0e5db9fee912d367a572b88f0d86f9a33006fa29",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r19/CVE-2018-9551/0e5db9fee912d367a572b88f0d86f9a33006fa29.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9556",
+      "commitId": "840a7eae5a6d8250490e8ea430193531f0c4ccd6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9556/840a7eae5a6d8250490e8ea430193531f0c4ccd6.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9560",
+      "commitId": "9009da96e00434501d9398bbfbc636902c757632",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9560/9009da96e00434501d9398bbfbc636902c757632.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9562",
+      "commitId": "1bb14c41a72978c6075c5753a8301ddcbb10d409",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9562/1bb14c41a72978c6075c5753a8301ddcbb10d409.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9583",
+      "commitId": "94d718eb61cbb1e6fd08288039d7e62913735c6c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9583/94d718eb61cbb1e6fd08288039d7e62913735c6c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9584",
+      "commitId": "5f0f0cc6a10f710dea7e1ddd4ba19acb877a7081",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9584/5f0f0cc6a10f710dea7e1ddd4ba19acb877a7081.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9585",
+      "commitId": "71764b791f262491e3f628c14ce3949863dd6058",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9585/71764b791f262491e3f628c14ce3949863dd6058.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9588",
+      "commitId": "bf9ff0c5215861ab673e211cd06e009f3157aab2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9588/bf9ff0c5215861ab673e211cd06e009f3157aab2.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9589",
+      "commitId": "38af82c5ca615f56febcebde714c7cba653fd5ec",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9589/38af82c5ca615f56febcebde714c7cba653fd5ec.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9590",
+      "commitId": "297598898683b81e921474e6e74c0ddaedbb8bb5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9590/297598898683b81e921474e6e74c0ddaedbb8bb5.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9591",
+      "commitId": "e1685cfa533db4155a447c405d7065cc17af2ae9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9591/e1685cfa533db4155a447c405d7065cc17af2ae9.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9592",
+      "commitId": "8679463ade0ee029ef826ed4fb7a847e2a981375",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9592/8679463ade0ee029ef826ed4fb7a847e2a981375.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9593",
+      "commitId": "8bc53213110fed8360d3e212dd61fbc0218e0b1e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9593/8bc53213110fed8360d3e212dd61fbc0218e0b1e.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9594",
+      "commitId": "494cd888eb2c5cfda05584dd598815c9268ff3c2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r30/CVE-2018-9594/494cd888eb2c5cfda05584dd598815c9268ff3c2.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1986",
+      "commitId": "8157d73fb620bc463eb26e974fe92d3259e7545a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r31/CVE-2019-1986/8157d73fb620bc463eb26e974fe92d3259e7545a.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1987",
+      "commitId": "654579dbab7cf3a566636bcc7d6617d5ac938f38",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r31/CVE-2019-1987/654579dbab7cf3a566636bcc7d6617d5ac938f38.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1988",
+      "commitId": "0056606ac49688dcf3c08a51ca98fd94d9bf1897",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r31/CVE-2019-1988/0056606ac49688dcf3c08a51ca98fd94d9bf1897.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1989",
+      "commitId": "a9915afb5575c29946fcd75fd2336c59f09a21f1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r34/CVE-2019-1989/a9915afb5575c29946fcd75fd2336c59f09a21f1.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1990",
+      "commitId": "fc3cacf7252a0e578725148c25863a9d9eda297e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r34/CVE-2019-1990/fc3cacf7252a0e578725148c25863a9d9eda297e.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2007",
+      "commitId": "7436115ffe6a5387d8fc11780a4f6ce104c7fb1b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r34/CVE-2019-2007/7436115ffe6a5387d8fc11780a4f6ce104c7fb1b.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2008",
+      "commitId": "49d89e9df80bbcb9629579086df99c01d75d6851",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r34/CVE-2019-2008/49d89e9df80bbcb9629579086df99c01d75d6851.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2011",
+      "commitId": "8708d35d64df1499edeab1c211ee3d769427cc60",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r34/CVE-2019-2011/8708d35d64df1499edeab1c211ee3d769427cc60.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2023",
+      "commitId": "9393ade3a1dadbbff1293d8dca420a6d155695ec",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r34/CVE-2019-2023/9393ade3a1dadbbff1293d8dca420a6d155695ec.tgz"
+    },
+    {
+      "cveId": "CVE-2018-20346",
+      "commitId": "18c26a364fe8979b5dbbd93a439c49b2db5d104c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-20346/18c26a364fe8979b5dbbd93a439c49b2db5d104c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9521",
+      "commitId": "083263937bfb1623adf6015da7ca3cdc258e0352",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9521/083263937bfb1623adf6015da7ca3cdc258e0352.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9527",
+      "commitId": "cafff8f4535c8bf933c5a2fcb1a0dd66fb75a1c2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9527/cafff8f4535c8bf933c5a2fcb1a0dd66fb75a1c2.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9540",
+      "commitId": "99d54d0c7dbab6c80f15bbf886ed203b2a547453",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9540/99d54d0c7dbab6c80f15bbf886ed203b2a547453.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9541",
+      "commitId": "cc364611362cc5bc896b400bdc471a617d1ac628",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9541/cc364611362cc5bc896b400bdc471a617d1ac628.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9542",
+      "commitId": "cc364611362cc5bc896b400bdc471a617d1ac628",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9542/cc364611362cc5bc896b400bdc471a617d1ac628.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9545",
+      "commitId": "e3fbbdeb251dc59890e469c627fce322614944c0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9545/e3fbbdeb251dc59890e469c627fce322614944c0.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9561",
+      "commitId": "06d8edd06e16e1fbf36127ef55586e1112e0b70c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9561/06d8edd06e16e1fbf36127ef55586e1112e0b70c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9561",
+      "commitId": "fe340aad0291879de8d3b33a9bdff4d6a5c8d36a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9561/fe340aad0291879de8d3b33a9bdff4d6a5c8d36a.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9563",
+      "commitId": "06d8edd06e16e1fbf36127ef55586e1112e0b70c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9563/06d8edd06e16e1fbf36127ef55586e1112e0b70c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9563",
+      "commitId": "fe340aad0291879de8d3b33a9bdff4d6a5c8d36a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9563/fe340aad0291879de8d3b33a9bdff4d6a5c8d36a.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9564",
+      "commitId": "06d8edd06e16e1fbf36127ef55586e1112e0b70c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9564/06d8edd06e16e1fbf36127ef55586e1112e0b70c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9564",
+      "commitId": "fe340aad0291879de8d3b33a9bdff4d6a5c8d36a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2018-9564/fe340aad0291879de8d3b33a9bdff4d6a5c8d36a.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1991",
+      "commitId": "2d21e75aa8c1e0c4adf178a1330f9f5c573ca045",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-1991/2d21e75aa8c1e0c4adf178a1330f9f5c573ca045.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1992",
+      "commitId": "c365ae6444b86c3ddd19197fd2c787581ebb31df",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-1992/c365ae6444b86c3ddd19197fd2c787581ebb31df.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1996",
+      "commitId": "525bdbd6e1295ed8a081d2ae87105c64d6f1ac4f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-1996/525bdbd6e1295ed8a081d2ae87105c64d6f1ac4f.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1998",
+      "commitId": "877a6e05bb08353a4f806ad4d3c9cf6f1c3fb097",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-1998/877a6e05bb08353a4f806ad4d3c9cf6f1c3fb097.tgz"
+    },
+    {
+      "cveId": "CVE-2019-1998",
+      "commitId": "f8feed620bd607427ded702cce91bb0eb749bc6a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-1998/f8feed620bd607427ded702cce91bb0eb749bc6a.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2004",
+      "commitId": "86c2985b0be7590aa979d25a7e5fb927cc1d2dcc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2004/86c2985b0be7590aa979d25a7e5fb927cc1d2dcc.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2006",
+      "commitId": "f6a40939fb77aace764df0cde4f354deae6b9883",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2006/f6a40939fb77aace764df0cde4f354deae6b9883.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2007",
+      "commitId": "8cb1c83742196077a6c58019a08cf83ed9aaf0eb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2007/8cb1c83742196077a6c58019a08cf83ed9aaf0eb.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2009",
+      "commitId": "488aa8befd5bdffed6cfca7a399d2266ffd201fb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2009/488aa8befd5bdffed6cfca7a399d2266ffd201fb.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2010",
+      "commitId": "35f34c2a18a09660e63cd509a2c37eee70893b67",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2010/35f34c2a18a09660e63cd509a2c37eee70893b67.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2011",
+      "commitId": "20ac1203a3201ac3e6d05a19325f5569033f3d08",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2011/20ac1203a3201ac3e6d05a19325f5569033f3d08.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2014",
+      "commitId": "0fa50697bd0d12c309ce45067b2ac54002f558f2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2014/0fa50697bd0d12c309ce45067b2ac54002f558f2.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2015",
+      "commitId": "23137c5e05cf6d87355af024e6494cf97a610beb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2015/23137c5e05cf6d87355af024e6494cf97a610beb.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2016",
+      "commitId": "785665677f471b1a6b404ed357b90318e7ec2c3f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2016/785665677f471b1a6b404ed357b90318e7ec2c3f.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2017",
+      "commitId": "d290c6d91461cec729add5bae585e5739aa9adf1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2017/d290c6d91461cec729add5bae585e5739aa9adf1.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2019",
+      "commitId": "fcc33ffcbc7552399c6290b5554e2ad7bdce40c6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2019/fcc33ffcbc7552399c6290b5554e2ad7bdce40c6.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2021",
+      "commitId": "3ba77cf43842eea409c891e815f14261aafde289",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2021/3ba77cf43842eea409c891e815f14261aafde289.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2022",
+      "commitId": "93610849229c5efed04d92ca71656561f72f0d79",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2022/93610849229c5efed04d92ca71656561f72f0d79.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2023",
+      "commitId": "2aefd64c7371cb52ea654ada5d511cc7c36f42f6",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2023/2aefd64c7371cb52ea654ada5d511cc7c36f42f6.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2023",
+      "commitId": "399533d650eff8c1fe9502c1f414f192838234c1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2023/399533d650eff8c1fe9502c1f414f192838234c1.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2023",
+      "commitId": "7375a87cd10b2eda4716d503f9100fb8dea6ad99",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2023/7375a87cd10b2eda4716d503f9100fb8dea6ad99.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2030",
+      "commitId": "e00529f4b12b0c484bd7b543018289799856bba7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2030/e00529f4b12b0c484bd7b543018289799856bba7.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2033",
+      "commitId": "04ba32f1a4754bf857926ce3a9e4f9e4159b3187",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2033/04ba32f1a4754bf857926ce3a9e4f9e4159b3187.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2034",
+      "commitId": "14e2f9df79ecb25db9e88843406d738d607101b4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2034/14e2f9df79ecb25db9e88843406d738d607101b4.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2035",
+      "commitId": "cb4844800cb05df1279e2c2934d852aa28e71aec",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2035/cb4844800cb05df1279e2c2934d852aa28e71aec.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2038",
+      "commitId": "7fe20626c1d042394a80c91ccd5d124d32c900de",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2038/7fe20626c1d042394a80c91ccd5d124d32c900de.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2039",
+      "commitId": "acfd93194bfcf3452c01d980f4add91118906586",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2039/acfd93194bfcf3452c01d980f4add91118906586.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2040",
+      "commitId": "12ef2547cf0417d63672f2513c6a0047f7953d22",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r35/CVE-2019-2040/12ef2547cf0417d63672f2513c6a0047f7953d22.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2020",
+      "commitId": "007bc12c4bec59e2ec31d03248e386dd6937ffd1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r36/CVE-2019-2020/007bc12c4bec59e2ec31d03248e386dd6937ffd1.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2044",
+      "commitId": "ea5aa166f8a0399cf1ab91b0dc864e01728e3888",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2044/ea5aa166f8a0399cf1ab91b0dc864e01728e3888.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2045",
+      "commitId": "9817e77d44b65abce2aba7f4d6c6372ed09a4a52",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2045/9817e77d44b65abce2aba7f4d6c6372ed09a4a52.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2046",
+      "commitId": "e3b988edf9cdfb318ba7aa1d8e3c0ddea53892de",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2046/e3b988edf9cdfb318ba7aa1d8e3c0ddea53892de.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2047",
+      "commitId": "8279c47df01ac6dc28d67c411dfa36c61a068c62",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2047/8279c47df01ac6dc28d67c411dfa36c61a068c62.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2049",
+      "commitId": "80e24410b7c42288f02869543555e682d88213f7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2049/80e24410b7c42288f02869543555e682d88213f7.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2050",
+      "commitId": "114b3803718500148dd90f32d231f61d746cd031",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2050/114b3803718500148dd90f32d231f61d746cd031.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2051",
+      "commitId": "a84c4b763ed287f762e4112c73d9fb357605b02c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2051/a84c4b763ed287f762e4112c73d9fb357605b02c.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2052",
+      "commitId": "f04f2b72c6656659274eacb51dd7558e19914f89",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2052/f04f2b72c6656659274eacb51dd7558e19914f89.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2053",
+      "commitId": "040d17d5d835cc4653e47b120e40975fc37fce95",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r37/CVE-2019-2053/040d17d5d835cc4653e47b120e40975fc37fce95.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2093",
+      "commitId": "18ac2d928d163d748b77a0257bf51ed259ce9a23",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r42/CVE-2019-2093/18ac2d928d163d748b77a0257bf51ed259ce9a23.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2094",
+      "commitId": "992389668ef2a626c8eaf729bcd5edd3d66cc7e0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r42/CVE-2019-2094/992389668ef2a626c8eaf729bcd5edd3d66cc7e0.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2095",
+      "commitId": "bf999383abd128f8db32fc2f24606679280a5b7d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r42/CVE-2019-2095/bf999383abd128f8db32fc2f24606679280a5b7d.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2096",
+      "commitId": "40e32d5e91c7bb9b1b82f291fcf66db887f45f2c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r42/CVE-2019-2096/40e32d5e91c7bb9b1b82f291fcf66db887f45f2c.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2096",
+      "commitId": "d5f4612112cd9150d0c9a5150fa09e73c8268dd7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r42/CVE-2019-2096/d5f4612112cd9150d0c9a5150fa09e73c8268dd7.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2097",
+      "commitId": "cad793346e55ab582a4aa43a246bb3cb10b76109",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r42/CVE-2019-2097/cad793346e55ab582a4aa43a246bb3cb10b76109.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2104",
+      "commitId": "60c9678cfa568536596dd66ba920d04bd806ed35",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2104/60c9678cfa568536596dd66ba920d04bd806ed35.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2104",
+      "commitId": "6a2127f162788add4da891fcd22882b9e2b65bad",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2104/6a2127f162788add4da891fcd22882b9e2b65bad.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2104",
+      "commitId": "7262280ba88c04ab9b46bc703319b2d93b201b21",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2104/7262280ba88c04ab9b46bc703319b2d93b201b21.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2104",
+      "commitId": "972991f8bcdcbabd5f9973bc1f498ecffe0ae303",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2104/972991f8bcdcbabd5f9973bc1f498ecffe0ae303.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2105",
+      "commitId": "505d1d117865ee5261b91c3555c0c71a757e5cf3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2105/505d1d117865ee5261b91c3555c0c71a757e5cf3.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2106",
+      "commitId": "58e26b2e6dab1bca233b00afaebab958f26b7c87",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2106/58e26b2e6dab1bca233b00afaebab958f26b7c87.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2107",
+      "commitId": "af17238b90c34bd466f01e7f9b999d3a28844cbe",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2107/af17238b90c34bd466f01e7f9b999d3a28844cbe.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2108",
+      "commitId": "366a34842d67cb61d5ef57b244d95802615012c5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2108/366a34842d67cb61d5ef57b244d95802615012c5.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2111",
+      "commitId": "b4378a5e6f656269bf0ecdf9ef0c3c483fcc3aa1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2111/b4378a5e6f656269bf0ecdf9ef0c3c483fcc3aa1.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2112",
+      "commitId": "b117c7f9892ae0bddd11bc6f2aaa18729fbcd429",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2112/b117c7f9892ae0bddd11bc6f2aaa18729fbcd429.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2116",
+      "commitId": "3a967720202ba074f747ddfb698a3757e037afb1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2116/3a967720202ba074f747ddfb698a3757e037afb1.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2118",
+      "commitId": "3332ca8f16491193c58fcafa8d6105925f2aad43",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2118/3332ca8f16491193c58fcafa8d6105925f2aad43.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2119",
+      "commitId": "12370c8b5ee9e80c548ff5294790bafd2363cde0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r43/CVE-2019-2119/12370c8b5ee9e80c548ff5294790bafd2363cde0.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2120",
+      "commitId": "82a88f49b8021ffe20a720cf45818a8b3338158d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2120/82a88f49b8021ffe20a720cf45818a8b3338158d.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2126",
+      "commitId": "1bb41f3767c785eecefb3376dab6267f69f3a8fb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2126/1bb41f3767c785eecefb3376dab6267f69f3a8fb.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2126",
+      "commitId": "6b25a58314a4a770c3ade5eab6bd396ded31059c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2126/6b25a58314a4a770c3ade5eab6bd396ded31059c.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2127",
+      "commitId": "1f76f20b2f14b2f08934380c65bf1495e29b969f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2127/1f76f20b2f14b2f08934380c65bf1495e29b969f.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2128",
+      "commitId": "90292b7e24b168244d86945ff208d9b26666ba49",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2128/90292b7e24b168244d86945ff208d9b26666ba49.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2129",
+      "commitId": "62da9cd2ad06388981f765249cf5537792df9842",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2129/62da9cd2ad06388981f765249cf5537792df9842.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2130",
+      "commitId": "32b25b2def7f6fec12df7e22e24e16edf7b57890",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2130/32b25b2def7f6fec12df7e22e24e16edf7b57890.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2133",
+      "commitId": "79f25156e03e148b1eec3031b0d8d8cdf5a9e8ab",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2133/79f25156e03e148b1eec3031b0d8d8cdf5a9e8ab.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2134",
+      "commitId": "bfa3d8c969fcd581b9a3e317fb9e8d84b5f7e3b5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2134/bfa3d8c969fcd581b9a3e317fb9e8d84b5f7e3b5.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2135",
+      "commitId": "ab9a7222b404e9a2db5288134e965f726372af63",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2135/ab9a7222b404e9a2db5288134e965f726372af63.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2136",
+      "commitId": "0038364ef5e07e106ded67ec444158ddb4b02fed",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2136/0038364ef5e07e106ded67ec444158ddb4b02fed.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2136",
+      "commitId": "0c2e456a557248ddeffe0e00c967820ee06e2228",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2136/0c2e456a557248ddeffe0e00c967820ee06e2228.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2136",
+      "commitId": "918b24d5a7c11fb8cafc25b43ff05696250f89ae",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2136/918b24d5a7c11fb8cafc25b43ff05696250f89ae.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2136",
+      "commitId": "db9a71219f77e03d1f2bf71a0a3562eb8b43de97",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-2136/db9a71219f77e03d1f2bf71a0a3562eb8b43de97.tgz"
+    },
+    {
+      "cveId": "CVE-2019-9506",
+      "commitId": "6b7c12366057a5f72fbbe0bc6f166e76172496c4",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r47/CVE-2019-9506/6b7c12366057a5f72fbbe0bc6f166e76172496c4.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2204",
+      "commitId": "8cd0e2fba8b916e268bc48a04b6ab19a4e523a04",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r50/CVE-2019-2204/8cd0e2fba8b916e268bc48a04b6ab19a4e523a04.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2208",
+      "commitId": "27798e9cc15435ca3e70df3ac4a201452ad08736",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r50/CVE-2019-2208/27798e9cc15435ca3e70df3ac4a201452ad08736.tgz"
+    },
+    {
+      "cveId": "CVE-2019-15140",
+      "commitId": "c5b97a8387b2ef22dae170732b1e2a218aa5ce25",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r51/CVE-2019-15140/c5b97a8387b2ef22dae170732b1e2a218aa5ce25.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0002",
+      "commitId": "c4b0440fb7a36cd8692126404f86f1bd7a19701e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r52/CVE-2020-0002/c4b0440fb7a36cd8692126404f86f1bd7a19701e.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2194",
+      "commitId": "76923a32ab6ea25115b65ff86ade7235ba7b3a33",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r61/CVE-2019-2194/76923a32ab6ea25115b65ff86ade7235ba7b3a33.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9440",
+      "commitId": "2870acaa4c58cf59758a74b6390615a421f14268",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9440/2870acaa4c58cf59758a74b6390615a421f14268.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9440",
+      "commitId": "8033f4a227e03f97a0f1d9975dc24bcb4ca61f74",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9440/8033f4a227e03f97a0f1d9975dc24bcb4ca61f74.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9470",
+      "commitId": "86a561f79f97baa38e240f6296fe1192fa4a5c9c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9470/86a561f79f97baa38e240f6296fe1192fa4a5c9c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9475",
+      "commitId": "43cd528a444d0cc5bbf3beb22cd583289bcf7334",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9475/43cd528a444d0cc5bbf3beb22cd583289bcf7334.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9478",
+      "commitId": "68688194eade113ad31687a730e8d4102ada58d5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9478/68688194eade113ad31687a730e8d4102ada58d5.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9480",
+      "commitId": "75c22982624fb530bc1d57aba6c1e46e7881d6ba",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9480/75c22982624fb530bc1d57aba6c1e46e7881d6ba.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9483",
+      "commitId": "d3689fb0ddcdede16c13250a7a30ca76b113c9c1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9483/d3689fb0ddcdede16c13250a7a30ca76b113c9c1.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9484",
+      "commitId": "d5b44f6522c3294d6f5fd71bc6670f625f716460",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9484/d5b44f6522c3294d6f5fd71bc6670f625f716460.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9485",
+      "commitId": "bdbabb2ca4ebb4dc5971d3d42cb12f8048e23a23",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9485/bdbabb2ca4ebb4dc5971d3d42cb12f8048e23a23.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9486",
+      "commitId": "bc6aef4f29387d07e0c638c9db810c6c1193f75b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r8/CVE-2018-9486/bc6aef4f29387d07e0c638c9db810c6c1193f75b.tgz"
+    },
+    {
+      "cveId": "CVE-2017-13283",
+      "commitId": "ebc284cf3a59ee5cf7c06af88c2f3bcd0480e3e9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2017-13283/ebc284cf3a59ee5cf7c06af88c2f3bcd0480e3e9.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9490",
+      "commitId": "a24543157ae2cdd25da43e20f4e48a07481e6ceb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9490/a24543157ae2cdd25da43e20f4e48a07481e6ceb.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9491",
+      "commitId": "2b4667baa5a2badbdfec1794156ee17d4afef37c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9491/2b4667baa5a2badbdfec1794156ee17d4afef37c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9496",
+      "commitId": "04e8cd58f075bec5892e369c8deebca9c67e855c",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9496/04e8cd58f075bec5892e369c8deebca9c67e855c.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9497",
+      "commitId": "bef16671c891e16f25a7b174bc528eea109357be",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9497/bef16671c891e16f25a7b174bc528eea109357be.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9499",
+      "commitId": "bf7a67c33c0f044abeef3b9746f434b7f3295bb1",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9499/bf7a67c33c0f044abeef3b9746f434b7f3295bb1.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9502",
+      "commitId": "9fe27a9b445f7e911286ed31c1087ceac567736b",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9502/9fe27a9b445f7e911286ed31c1087ceac567736b.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9503",
+      "commitId": "92a7bf8c44a236607c146240f3c0adc1ae01fedf",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9503/92a7bf8c44a236607c146240f3c0adc1ae01fedf.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9503",
+      "commitId": "d4a34fefbf292d1e02336e4e272da3ef1e3eef85",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9503/d4a34fefbf292d1e02336e4e272da3ef1e3eef85.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9504",
+      "commitId": "11fb7aa03437eccac98d90ca2de1730a02a515e2",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9504/11fb7aa03437eccac98d90ca2de1730a02a515e2.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9505",
+      "commitId": "5216e6120160b28d76e9ee4dff9995e772647511",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9505/5216e6120160b28d76e9ee4dff9995e772647511.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9506",
+      "commitId": "830cb39cb2a0f1bf6704d264e2a5c5029c175dd7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9506/830cb39cb2a0f1bf6704d264e2a5c5029c175dd7.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9507",
+      "commitId": "30cec963095366536ca0b1306089154e09bfe1a9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9507/30cec963095366536ca0b1306089154e09bfe1a9.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9509",
+      "commitId": "198888b8e0163bab7a417161c63e483804ae8e31",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9509/198888b8e0163bab7a417161c63e483804ae8e31.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9510",
+      "commitId": "6e4b8e505173f803a5fc05abc09f64eef89dc308",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r9/CVE-2018-9510/6e4b8e505173f803a5fc05abc09f64eef89dc308.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3823",
+      "commitId": "407d475b797fdc595299d67151230dc6e3835ccd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2015-3823/407d475b797fdc595299d67151230dc6e3835ccd.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3869",
+      "commitId": "450e1015b7939292ca988dd1b4f0303a094478e9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2015-3869/450e1015b7939292ca988dd1b4f0303a094478e9.tgz"
+    },
+    {
+      "cveId": "CVE-2015-3873",
+      "commitId": "06ca06ac6107f88530cc67225c47537621bb41a5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2015-3873/06ca06ac6107f88530cc67225c47537621bb41a5.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6598",
+      "commitId": "ba6093a4c6997b9d36d9700ee8c974941bf82e3a",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2015-6598/ba6093a4c6997b9d36d9700ee8c974941bf82e3a.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6605",
+      "commitId": "36ec928f52271dd1feb4c86b18026564220629e9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2015-6605/36ec928f52271dd1feb4c86b18026564220629e9.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6605",
+      "commitId": "3ce293842fed1b3abd2ff0aecd2a0c70a55086ee",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2015-6605/3ce293842fed1b3abd2ff0aecd2a0c70a55086ee.tgz"
+    },
+    {
+      "cveId": "CVE-2015-6608",
+      "commitId": "3830d0b585ada64ee75dea6da267505b19c622fd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2015-6608/3830d0b585ada64ee75dea6da267505b19c622fd.tgz"
+    },
+    {
+      "cveId": "CVE-2016-0815",
+      "commitId": "5403587a74aee2fb57076528c3927851531c8afb",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-sdk-4.4.2_r1.0.1/CVE-2016-0815/5403587a74aee2fb57076528c3927851531c8afb.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0832",
+      "commitId": "0a2112249af3c8de52f4da9e89d740b20246d050",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0832/0a2112249af3c8de52f4da9e89d740b20246d050.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0833",
+      "commitId": "5df744afde273bc4d0f7a499581dd2fb2ae6cb45",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0833/5df744afde273bc4d0f7a499581dd2fb2ae6cb45.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0834",
+      "commitId": "89b4c1cf9e2d18c27c2d9c8c7504e5e2d79ef289",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0834/89b4c1cf9e2d18c27c2d9c8c7504e5e2d79ef289.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0835",
+      "commitId": "c07e83250dcdc3be3eca434c266472be8fddec5f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0835/c07e83250dcdc3be3eca434c266472be8fddec5f.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0836",
+      "commitId": "6921d875c1176cc79a582dd7416e020bf011b53e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0836/6921d875c1176cc79a582dd7416e020bf011b53e.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0837",
+      "commitId": "f759b8c4bcce2d3b3d45551be461f04297fa2bd3",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0837/f759b8c4bcce2d3b3d45551be461f04297fa2bd3.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0840",
+      "commitId": "f630233ee42214b36e6862dc99114f2c2bdda018",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0840/f630233ee42214b36e6862dc99114f2c2bdda018.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0841",
+      "commitId": "47efc676c849e3abf32001d66e2d6eb887e83c48",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0841/47efc676c849e3abf32001d66e2d6eb887e83c48.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0842",
+      "commitId": "b413f1b1365af4273647727e497848f95312d0ec",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0842/b413f1b1365af4273647727e497848f95312d0ec.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0870",
+      "commitId": "22758c3312ada2cf9579c9c379875e3c7eb4b1f7",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0870/22758c3312ada2cf9579c9c379875e3c7eb4b1f7.tgz"
+    },
+    {
+      "cveId": "CVE-2017-0872",
+      "commitId": "7a3ba537f7456b4870a983cd9e0a09bb3d478efc",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2017-0872/7a3ba537f7456b4870a983cd9e0a09bb3d478efc.tgz"
+    },
+    {
+      "cveId": "CVE-2019-2180",
+      "commitId": "b58481780c9e85fc71c990f90f0dcdbdcee8fc00",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-vts-8.0_r2/CVE-2019-2180/b58481780c9e85fc71c990f90f0dcdbdcee8fc00.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0377",
+      "commitId": "26a348a610ec277384c98f42acd841ae647d2131",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r4/CVE-2020-0377/26a348a610ec277384c98f42acd841ae647d2131.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0413",
+      "commitId": "26a348a610ec277384c98f42acd841ae647d2131",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r4/CVE-2020-0413/26a348a610ec277384c98f42acd841ae647d2131.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0420",
+      "commitId": "e0984b06cb64acc83a54a60854ad03e65a3cea1e",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r4/CVE-2020-0420/e0984b06cb64acc83a54a60854ad03e65a3cea1e.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0421",
+      "commitId": "bad50ed24f9d48d001fcedd332d59f162dc3432d",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-11.0.0_r4/CVE-2020-0421/bad50ed24f9d48d001fcedd332d59f162dc3432d.tgz"
+    },
+    {
+      "cveId": "CVE-2020-0034",
+      "commitId": "30d0c20d0d04151530de62df3937de27c4f204fd",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-8.0.0_r44/CVE-2020-0034/30d0c20d0d04151530de62df3937de27c4f204fd.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9531",
+      "commitId": "c2208f2a3098410c5a4c79ad6bd4b6d7e1c0b03f",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r16/CVE-2018-9531/c2208f2a3098410c5a4c79ad6bd4b6d7e1c0b03f.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9536",
+      "commitId": "9744e41c40598c6a0b74440f3b5be63f9f3708a5",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r16/CVE-2018-9536/9744e41c40598c6a0b74440f3b5be63f9f3708a5.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9537",
+      "commitId": "61381bd0f4bc012876ccf4b63eafddd2d60c35c9",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r16/CVE-2018-9537/61381bd0f4bc012876ccf4b63eafddd2d60c35c9.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9539",
+      "commitId": "efe34a570d91b826b009d40e44c2e470dd180ace",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r16/CVE-2018-9539/efe34a570d91b826b009d40e44c2e470dd180ace.tgz"
+    },
+    {
+      "cveId": "CVE-2018-9544",
+      "commitId": "e3fbbdeb251dc59890e469c627fce322614944c0",
+      "link": "https://ostraciidae.s3.fr-par.scw.cloud/android-9.0.0_r16/CVE-2018-9544/e3fbbdeb251dc59890e469c627fce322614944c0.tgz"
+    }
+  ]
+}
