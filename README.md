@@ -4,7 +4,7 @@ This repository is the companion for the paper Building a Commit-level Dataset
 of Real-world Vulnerabilities published in CODASPY 2022.
 
 
-## Installation of the helpers
+## Installation
 
 You can install the code of the helpers by cloning this repository and using `pip install .` (he trailing dot is important).
 
