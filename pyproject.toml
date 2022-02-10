@@ -14,9 +14,8 @@ classifiers = [
 ]
 dynamic = ["version", "description"]
 dependencies = [
-    "pydantic",
+    "pydantic>=1.9,<2",
 ]
-license = "LICENSE"
 
 [project.optional-dependencies]
 dev = [

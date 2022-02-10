@@ -11,12 +11,12 @@ from aosp_dataset.compiled import PrecompiledDataset
 
 def generate_schema():
     """Generate the JSON schema using pydantic"""
-    
+
     with open("schemas/AospCve.schema.json", "w") as file:
         file.write(AospCve.schema_json(indent=2))
 
     with open("schemas/precompiled.schema.json", "w") as file:
-            file.write(PrecompiledDataset.schema_json(indent=2))
+        file.write(PrecompiledDataset.schema_json(indent=2))
 
 
 __all__ = [

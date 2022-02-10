@@ -17,7 +17,7 @@ class CveLink(BaseModel):
 
 class PrecompiledDataset(BaseModel):
     """Precompiled dataset"""
-    
+
     compiledCves: List[CveLink] = Field(
         ...,
         title="Compiled CVEs",

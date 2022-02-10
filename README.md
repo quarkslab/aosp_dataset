@@ -4,6 +4,13 @@ This repository is the companion for the paper Building a Commit-level Dataset
 of Real-world Vulnerabilities published in CODASPY 2022.
 
 
+## Installation of the helpers
+
+You can install the code of the helpers by cloning this repository and using `pip install .` (he trailing dot is important).
+
+
+Note that the code targets `Python 3.10+` and has only been tested on `Debian`.
+
 ## Commit level vulnerabilities
 
 This dataset contains 1900 vulnerabilities information at a fix commit level for
