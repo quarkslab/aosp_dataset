@@ -54,7 +54,7 @@ import json
 import aosp_dataset
 
 precompiled_dataset = aosp_dataset.PrecompiledDataset(
-    json.load(open("precompiled/links.json"))
+    **json.load(open("precompiled/links.json"))
 )
 ```
 
