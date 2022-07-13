@@ -26,7 +26,7 @@ import json
 import aosp_dataset
 
 cve_2012_6701 = aosp_dataset.AospCve(
-    json.load(open("cves/CVE-2012-6701.json"))
+    **json.load(open("cves/CVE-2012-6701.json"))
 )
 ```
 
