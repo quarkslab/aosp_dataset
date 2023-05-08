@@ -17,7 +17,7 @@ This dataset contains 1900 vulnerabilities information at a fix commit level for
 the Android Open Source Project. The information are available in directory
 [`cves/`](cves/) using one file per vulnerability. The schema used is described
 in this [file](schemas/AospCve.schema.json) and an helper Python class is
-available [here](src/aospcve.py).
+available [here](src/aosp_dataset/aospcve.py).
 
 ### Usage
 
